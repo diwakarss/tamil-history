@@ -1,0 +1,2827 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "meta": {
+    "version": "2.0.0",
+    "generated": "2026-02-28",
+    "totalStops": 27,
+    "dateRange": {
+      "earliest": -1155,
+      "latest": 2004
+    },
+    "confidenceLevels": {
+      "VERY_HIGH": "Well-established with multiple scholarly sources",
+      "HIGH": "Well-documented with strong scholarly consensus",
+      "MEDIUM": "Documented but some scholarly debate exists",
+      "LOW": "Limited sources or significant scholarly disagreement",
+      "CONTESTED": "Major scholarly disagreement on dates/facts"
+    },
+    "description": "Tamil History Timeline - Bilingual Data (English/Tamil) with scholarly sources and literary pairings"
+  },
+  "timeline": [
+    {
+      "id": 1,
+      "era": "PRE_SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Sivagalai Iron Age Settlement",
+        "ta": "சிவகலை இரும்பு யுக குடியேற்றம்"
+      },
+      "date": {
+        "year": -1155,
+        "display": {
+          "en": "~1155 BCE",
+          "ta": "சுமார் கி.மு. 1155"
+        },
+        "rangeEnd": null,
+        "confidence": "HIGH",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "3345-2953 BCE",
+            "ta": "கி.மு. 3345-2953"
+          },
+          "issue": {
+            "en": "2000+ year dating gap between charcoal and rice samples",
+            "ta": "கரி மற்றும் அரிசி மாதிரிகளுக்கு இடையே 2000+ ஆண்டு காலவரிசை இடைவெளி"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Sivagalai",
+          "ta": "சிவகலை"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "தூத்துக்குடி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Iron Age settlement with 160 urn burials demonstrating advanced civilization. Rice dated to 1155 BCE via AMS radiocarbon.",
+        "ta": "முன்னேறிய நாகரிகத்தை வெளிப்படுத்தும் 160 கலச புதைகுழிகளுடன் கூடிய இரும்பு யுக குடியேற்றம். AMS கதிரியக்க கார்பன் முறையில் அரிசி கி.மு. 1155 என காலமிடப்பட்டது."
+      },
+      "keyFindings": [
+        {
+          "en": "160 urn burials across 24 trenches",
+          "ta": "24 அகழ்வு குழிகளில் 160 கலச புதைகுழிகள்"
+        },
+        {
+          "en": "85+ iron implements (knives, arrows, swords)",
+          "ta": "85+ இரும்பு கருவிகள் (கத்திகள், அம்புகள், வாள்கள்)"
+        },
+        {
+          "en": "Black-and-red ware pottery",
+          "ta": "கருப்பு-சிவப்பு மட்பாண்டங்கள்"
+        },
+        {
+          "en": "Gold pendant fragment",
+          "ta": "தங்க பதக்கத்தின் துண்டு"
+        },
+        {
+          "en": "Human skeletal remains",
+          "ta": "மனித எலும்புக்கூடு எச்சங்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "critical",
+          "url": "https://thewire.in/history/explainer-what-the-most-recent-archaeological-findings-in-tamil-nadus-sivakalai-mean",
+          "title": {
+            "en": "The Wire: Critical perspective on Sivagalai",
+            "ta": "தி வயர்: சிவகலை குறித்த விமர்சன பார்வை"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Sivagalai",
+          "title": {
+            "en": "Wikipedia: Sivagalai",
+            "ta": "விக்கிப்பீடியா: சிவகலை"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "iron_age",
+        "burial",
+        "pre_literary",
+        "ams_dating"
+      ]
+    },
+    {
+      "id": 2,
+      "era": "PRE_SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Adichanallur Megalithic Burials",
+        "ta": "அதிச்சநல்லூர் பெருங்கல் புதைகுழிகள்"
+      },
+      "date": {
+        "year": -905,
+        "display": {
+          "en": "905-696 BCE",
+          "ta": "கி.மு. 905-696"
+        },
+        "rangeEnd": -696,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Adichanallur",
+          "ta": "அதிச்சநல்லூர்"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "தூத்துக்குடி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": {
+          "lat": 8.628,
+          "lng": 77.873
+        }
+      },
+      "summary": {
+        "en": "India's largest Iron Age urn burial site. 169 burial urns containing warriors with iron swords and gold diadems, evidence of a stratified Tamil society 2,900 years ago.",
+        "ta": "இந்தியாவின் மிகப்பெரிய இரும்பு யுக கலச புதைகுழி தளம். இரும்பு வாள்கள் மற்றும் தங்க முடிகளுடன் 169 கலச புதைகுழிகள், 2,900 ஆண்டுகளுக்கு முந்தைய படிநிலை தமிழ் சமுதாயத்தின் சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "169 burial urns excavated (2004-2005)",
+          "ta": "169 கலச புதைகுழிகள் அகழ்வு செய்யப்பட்டன (2004-2005)"
+        },
+        {
+          "en": "Iron swords, spears, hatchets",
+          "ta": "இரும்பு வாள்கள், ஈட்டிகள், கோடரிகள்"
+        },
+        {
+          "en": "Gold diadems (nettri pattayam)",
+          "ta": "தங்க நெற்றிப்பட்டை"
+        },
+        {
+          "en": "High-tin bronze artifacts (75% Cu, 23% Sn)",
+          "ta": "உயர் தகரம் கொண்ட வெண்கல கலைப்பொருட்கள் (75% Cu, 23% Sn)"
+        },
+        {
+          "en": "Rice husks and millet",
+          "ta": "அரிசி உமி மற்றும் தினை"
+        },
+        {
+          "en": "Rudimentary Tamil-Brahmi on pottery",
+          "ta": "மட்பாண்டங்களில் ஆரம்பகால தமிழ் பிராமி"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Purananuru",
+          "ta": "புறநானூறு"
+        },
+        "relevance": {
+          "en": "Sangam literature preserves cultural memory of Iron Age burial practices",
+          "ta": "சங்க இலக்கியம் இரும்பு யுக புதைகுழி பழக்கவழக்கங்களின் கலாச்சார நினைவை பாதுகாக்கிறது"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Every town's our home town; every man, our kinsman; Good and evil happen not because of others... Dying isn't something unknown.",
+          "ta": "யாதும் ஊரே யாவரும் கேளிர் தீதும் நன்றும் பிறர்தர வாரா நோதலும் தணிதலும் அவற்றோரன்ன சாதலும் புதுவது அன்றே"
+        },
+        "source": {
+          "en": "Purananuru 192",
+          "ta": "புறநானூறு 192"
+        },
+        "author": {
+          "en": "Kanian Poonkundranar",
+          "ta": "கணியன் பூங்குன்றனார்"
+        },
+        "translator": "A.K. Ramanujan",
+        "context": {
+          "en": "Philosophical meditation on death, reflecting burial customs",
+          "ta": "புதைகுழி பழக்கவழக்கங்களை பிரதிபலிக்கும் மரணம் பற்றிய தத்துவ சிந்தனை"
+        }
+      },
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://asi.nic.in/pdf/Adichchanallur-Excavation-Report.pdf",
+          "title": {
+            "en": "ASI Excavation Report",
+            "ta": "ASI அகழ்வாராய்ச்சி அறிக்கை"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://theprint.in/opinion/tamil-nadu-has-the-largest-iron-age-urn-burial-site-we-must-look-beyond-our-harappa-frenzy/2338006/",
+          "title": {
+            "en": "The Print: Tamil Nadu's largest Iron Age site",
+            "ta": "தி பிரிண்ட்: தமிழ்நாட்டின் மிகப்பெரிய இரும்பு யுக தளம்"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Adichanallur",
+          "title": {
+            "en": "Wikipedia: Adichanallur",
+            "ta": "விக்கிப்பீடியா: அதிச்சநல்லூர்"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "iron_age",
+        "burial",
+        "ams_dating",
+        "gold_artifacts",
+        "bronze",
+        "megalithic"
+      ]
+    },
+    {
+      "id": 3,
+      "era": "PRE_SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Keezhadi Urban Settlement",
+        "ta": "கீழடி நகர குடியேற்றம்"
+      },
+      "date": {
+        "year": -580,
+        "display": {
+          "en": "580 BCE",
+          "ta": "கி.மு. 580"
+        },
+        "rangeEnd": -100,
+        "confidence": "HIGH",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "Tamil-Brahmi to 6th century BCE",
+            "ta": "தமிழ்-பிராமி கி.மு. 6ஆம் நூற்றாண்டு வரை"
+          },
+          "issue": {
+            "en": "Stratigraphic disturbances documented",
+            "ta": "அடுக்குநிலை இடையூறுகள் ஆவணப்படுத்தப்பட்டன"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Keezhadi",
+          "ta": "கீழடி"
+        },
+        "district": {
+          "en": "Sivaganga",
+          "ta": "சிவகங்கை"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": {
+          "lat": 9.855,
+          "lng": 78.195
+        }
+      },
+      "summary": {
+        "en": "A 6th-5th century BCE Sangam Age settlement on the Vaigai River revealing urban planning, advanced drainage systems, and early Tamil-Brahmi script.",
+        "ta": "கி.மு. 6-5 ஆம் நூற்றாண்டு சங்க கால குடியேற்றம், வைகை ஆற்றங்கரையில் நகர திட்டமிடல், மேம்பட்ட வடிகால் அமைப்புகள் மற்றும் ஆரம்பகால தமிழ்-பிராமி எழுத்துக்களை வெளிப்படுத்துகிறது."
+      },
+      "keyFindings": [
+        {
+          "en": "18,000+ artifacts across 5 excavation phases",
+          "ta": "5 அகழ்வாராய்ச்சி கட்டங்களில் 18,000+ கலைப்பொருட்கள்"
+        },
+        {
+          "en": "50-120+ Tamil-Brahmi inscribed potsherds",
+          "ta": "50-120+ தமிழ்-பிராமி பொறிக்கப்பட்ட மட்பாண்ட ஓடுகள்"
+        },
+        {
+          "en": "Standardized brick architecture (38×23×6 cm)",
+          "ta": "தரப்படுத்தப்பட்ட செங்கல் கட்டிடக்கலை (38×23×6 செ.மீ)"
+        },
+        {
+          "en": "Terracotta ring wells for drainage",
+          "ta": "வடிகால் அமைப்புக்கான மண்பாண்ட வளைய கிணறுகள்"
+        },
+        {
+          "en": "7+ gold ornaments",
+          "ta": "7+ தங்க அணிகலன்கள்"
+        },
+        {
+          "en": "4,000+ semi-precious beads",
+          "ta": "4,000+ அரை விலையுயர்ந்த மணிகள்"
+        },
+        {
+          "en": "Gaming pieces (dice, chess)",
+          "ta": "விளையாட்டு துண்டுகள் (பகடை, சதுரங்கம்)"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Sangam Literature",
+          "ta": "சங்க இலக்கியம்"
+        },
+        "relevance": {
+          "en": "Urban sophistication matches Sangam descriptions of Tamil cities",
+          "ta": "நகர நுட்பம் தமிழ் நகரங்களின் சங்க விவரணைகளுடன் பொருந்துகிறது"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Rich cities stand along the winding rivers, where merchants throng and wealth accumulates.",
+          "ta": "வளங்கெழு திருநகர் வணிகர் ஈண்டி ஆற்றின் அணித்தாய் நிற்கும்"
+        },
+        "source": {
+          "en": "Sangam Poetry (composite)",
+          "ta": "சங்க இலக்கியம் (தொகுப்பு)"
+        },
+        "author": null,
+        "translator": {
+          "en": "Adapted",
+          "ta": "பொருத்தப்பட்டது"
+        },
+        "context": {
+          "en": "Describing urban centers of Sangam Age Tamil society",
+          "ta": "சங்க யுக தமிழ் சமுதாயத்தின் நகர மையங்களை விவரிப்பது"
+        }
+      },
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/keeladi",
+          "title": {
+            "en": "TN Archaeology Department: Keeladi",
+            "ta": "TN Archaeology Department: Keeladi"
+          }
+        },
+        {
+          "type": "official",
+          "url": "https://culture.gov.in/latest-news/asi-publishes-keezhadi-excavation-report-line-scientific-protocols",
+          "title": {
+            "en": "Ministry of Culture: Keezhadi Report",
+            "ta": "Ministry of Culture: Keezhadi Report"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Keezhadi_excavation_site",
+          "title": {
+            "en": "Wikipedia: Keezhadi",
+            "ta": "Wikipedia: Keezhadi"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "urban_planning",
+        "tamil_brahmi",
+        "drainage",
+        "sangam_age",
+        "ams_dating"
+      ]
+    },
+    {
+      "id": 4,
+      "era": "PRE_SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Kodumanal Iron Smelting Center",
+        "ta": "கொடுமணல் இரும்பு உருக்கு மையம்"
+      },
+      "date": {
+        "year": -500,
+        "display": {
+          "en": "500-200 BCE",
+          "ta": "கி.மு. 500-200"
+        },
+        "rangeEnd": -200,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Kodumanal",
+          "ta": "கொடுமணல்"
+        },
+        "district": {
+          "en": "Erode",
+          "ta": "ஈரோடு"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "An ancient industrial powerhouse where Chera craftsmen produced wootz steel for Roman swords and quartz beads for Mediterranean markets — 500+ Tamil-Brahmi inscriptions document a literate merchant class 2,300 years ago.",
+        "ta": "பண்டைய தொழில்துறை வல்லரசு - சேர கைவினைஞர்கள் ரோமானிய வாள்களுக்கான வூட்ஸ் எஃகு மற்றும் மத்தியதரைக் கடல் சந்தைகளுக்கான படிக மணிகளை உற்பத்தி செய்தனர். 500+ தமிழ்-பிராமி கல்வெட்டுகள் 2,300 ஆண்டுகளுக்கு முன்பு எழுத்தறிவு பெற்ற வணிக வகுப்பை ஆவணப்படுத்துகின்றன."
+      },
+      "keyFindings": [
+        {
+          "en": "500+ Tamil-Brahmi inscribed potsherds",
+          "ta": "500+ தமிழ்-பிராமி பொறிக்கப்பட்ட மட்பாண்ட ஓடுகள்"
+        },
+        {
+          "en": "Iron furnaces with slag deposits",
+          "ta": "கழிவு படிவுகளுடன் இரும்பு உலைகள்"
+        },
+        {
+          "en": "Circular bowl furnace (115 cm diameter)",
+          "ta": "வட்ட கிண்ண உலை (115 செ.மீ விட்டம்)"
+        },
+        {
+          "en": "Wootz steel crucible production",
+          "ta": "வூட்ஸ் எஃகு குடுவை உற்பத்தி"
+        },
+        {
+          "en": "Quartz, beryl, carnelian beads",
+          "ta": "படிக, பெரில், கார்னீலியன் மணிகள்"
+        },
+        {
+          "en": "Roman coins",
+          "ta": "ரோமானிய நாணயங்கள்"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Patirruppattu",
+          "ta": "பதிற்றுப்பத்து"
+        },
+        "relevance": {
+          "en": "Explicitly references Kodumanam as manufacturing center under Chera patronage",
+          "ta": "சேர ஆதரவின் கீழ் உற்பத்தி மையமாக கொடுமணத்தை வெளிப்படையாகக் குறிப்பிடுகிறது"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "The fine skilled-ornaments crafted at Kodumanam...",
+          "ta": "கொடுமணம் பட்ட வினைமான் நன்கலம்..."
+        },
+        "source": {
+          "en": "Patirruppattu 67",
+          "ta": "பதிற்றுப்பத்து 67"
+        },
+        "author": {
+          "en": "Kapilar",
+          "ta": "கபிலர்"
+        },
+        "translator": null,
+        "context": {
+          "en": "References Kodumanam as Chera craftsmen center",
+          "ta": "கொடுமணத்தை சேர கைவினைஞர் மையமாகக் குறிப்பிடுகிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "news",
+          "url": "https://www.thenewsminute.com/tamil-nadu/how-kodumanal-obscure-tn-village-became-archeological-hotspot-180928",
+          "title": {
+            "en": "The News Minute: Kodumanal archaeological hotspot",
+            "ta": "The News Minute: Kodumanal archaeological hotspot"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Kodumanal",
+          "title": {
+            "en": "Wikipedia: Kodumanal",
+            "ta": "Wikipedia: Kodumanal"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "iron_smelting",
+        "wootz_steel",
+        "bead_making",
+        "tamil_brahmi",
+        "chera",
+        "indo_roman_trade"
+      ]
+    },
+    {
+      "id": 5,
+      "era": "SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Tamil-Brahmi Script Emergence",
+        "ta": "தமிழ்-பிராமி எழுத்து தோற்றம்"
+      },
+      "date": {
+        "year": -300,
+        "display": {
+          "en": "3rd century BCE",
+          "ta": "கி.மு. 3ஆம் நூற்றாண்டு"
+        },
+        "rangeEnd": 100,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Multiple sites",
+          "ta": "Multiple sites"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Tamil-Brahmi literacy established across 30+ sites with 93+ inscriptions. Demonstrates literacy beyond elites — craftspeople and merchants at Kodumanal, property records, donations, and royal genealogies.",
+        "ta": "30+ தளங்களில் 93+ கல்வெட்டுகளுடன் தமிழ்-பிராமி எழுத்தறிவு நிலைநாட்டப்பட்டது. உயரடுக்கினரைத் தாண்டிய எழுத்தறிவை நிரூபிக்கிறது - கொடுமணலில் கைவினைஞர்கள், வணிகர்கள், சொத்து பதிவுகள், நன்கொடைகள் மற்றும் அரச வம்சாவளிகள்."
+      },
+      "keyFindings": [
+        {
+          "en": "93+ inscriptions across 31 cave sites",
+          "ta": "93+ inscriptions across 31 cave sites"
+        },
+        {
+          "en": "Mangulam: earliest inscription (3rd c. BCE)",
+          "ta": "Mangulam: earliest inscription (3rd c. BCE)"
+        },
+        {
+          "en": "Pugalur: 12 inscriptions with 3 Chera kings",
+          "ta": "Pugalur: 12 inscriptions with 3 Chera kings"
+        },
+        {
+          "en": "Kodumanal: 500+ merchant potsherds",
+          "ta": "Kodumanal: 500+ merchant potsherds"
+        },
+        {
+          "en": "Jain/Buddhist institutional framework",
+          "ta": "Jain/Buddhist institutional framework"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Inscription corpus",
+          "ta": "Inscription corpus"
+        },
+        "relevance": {
+          "en": "Names match Sangam literature kings",
+          "ta": "Names match Sangam literature kings"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Satiyaputo Atiyan Nedumaan Anjji itta Paali — The abode given by Atiyan Nedumaan Anji, the Satyaputra",
+          "ta": "சாதியபுதோ அதியன் நெடுமான் அஞ்சி இட்ட பள்ளி"
+        },
+        "source": {
+          "en": "Jambai Inscription",
+          "ta": "ஜம்பை கல்வெட்டு"
+        },
+        "author": null,
+        "translator": "Iravatham Mahadevan",
+        "context": {
+          "en": "Royal donation to religious institution",
+          "ta": "சமய நிறுவனத்திற்கு அரச நன்கொடை"
+        }
+      },
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/epigraphy/inscriptions-thamizhi-tamil-brahmi-script",
+          "title": {
+            "en": "TN Archaeology: Tamil-Brahmi",
+            "ta": "TN Archaeology: Tamil-Brahmi"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tamil-Brahmi",
+          "title": {
+            "en": "Wikipedia: Tamil-Brahmi",
+            "ta": "Wikipedia: Tamil-Brahmi"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "script",
+        "literacy",
+        "epigraphy",
+        "jain",
+        "buddhist"
+      ]
+    },
+    {
+      "id": 6,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Arikamedu Roman Trade Settlement",
+        "ta": "அரிக்கமேடு ரோமானிய வணிக குடியேற்றம்"
+      },
+      "date": {
+        "year": -100,
+        "display": {
+          "en": "1st c. BCE - 2nd c. CE",
+          "ta": "1st c. BCE - 2nd c. CE"
+        },
+        "rangeEnd": 200,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Arikamedu",
+          "ta": "Arikamedu"
+        },
+        "district": {
+          "en": "Puducherry",
+          "ta": "Puducherry"
+        },
+        "state": {
+          "en": "Puducherry",
+          "ta": "Puducherry"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "World's earliest Indo-Pacific bead manufacturing center. Direct evidence of Tamil-Roman trade with Arretine ware, Roman amphorae, and coins proving monetary (not barter) commerce.",
+        "ta": "உலகின் ஆரம்பகால இந்தோ-பசிபிக் மணி உற்பத்தி மையம். அரெட்டைன் பாத்திரங்கள், ரோமானிய ஆம்போரா மற்றும் நாணயங்கள் மூலம் தமிழ்-ரோமானிய வர்த்தகத்தின் நேரடி சான்று - பண்ட மாற்றம் அல்ல, நாணய வர்த்தகம் என்பதை நிரூபிக்கிறது."
+      },
+      "keyFindings": [
+        {
+          "en": "170+ Roman coins",
+          "ta": "170+ Roman coins"
+        },
+        {
+          "en": "Arretine ware from Arezzo, Italy",
+          "ta": "Arretine ware from Arezzo, Italy"
+        },
+        {
+          "en": "~170 Roman amphorae (wine/olive oil)",
+          "ta": "~170 Roman amphorae (wine/olive oil)"
+        },
+        {
+          "en": "45m+ warehouse (brick and lime-mortar)",
+          "ta": "45m+ warehouse (brick and lime-mortar)"
+        },
+        {
+          "en": "Indo-Pacific bead manufacturing (300 BCE - 1800 CE)",
+          "ta": "Indo-Pacific bead manufacturing (300 BCE - 1800 CE)"
+        },
+        {
+          "en": "Named 'Poduke' in Periplus",
+          "ta": "Named 'Poduke' in Periplus"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Periplus of the Erythraean Sea",
+          "ta": "எரித்ரேயன் கடலின் பெரிப்ளஸ்"
+        },
+        "relevance": {
+          "en": "Named as 'Poduke' emporion (commercial trading post)",
+          "ta": "Named as 'Poduke' emporion (commercial trading post)"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Sweet-scented wine brought in by Yavana ships... gold that reached ashore by boats... black pepper carried in loads.",
+          "ta": "யவனர் நன்கலம் தந்த தண்கமழ் தேறல் பொன்செய் புனைகலத்து ஏந்தி நாளும் ஒண்தொடி மகளிர் மடுப்ப"
+        },
+        "source": {
+          "en": "Purananuru 56",
+          "ta": "புறநானூறு 56"
+        },
+        "author": null,
+        "translator": null,
+        "context": {
+          "en": "Describes Indo-Roman trade at Tamil ports",
+          "ta": "தமிழ் துறைமுகங்களில் இந்தோ-ரோமானிய வர்த்தகத்தை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://en.unesco.org/silkroad/content/did-you-know-port-trade-centre-arikamedu-and-roman-exchange-indian-subcontinent",
+          "title": {
+            "en": "UNESCO Silk Roads: Arikamedu",
+            "ta": "UNESCO Silk Roads: Arikamedu"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Arikamedu",
+          "title": {
+            "en": "Wikipedia: Arikamedu",
+            "ta": "Wikipedia: Arikamedu"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "indo_roman_trade",
+        "bead_making",
+        "roman_artifacts",
+        "periplus",
+        "port"
+      ]
+    },
+    {
+      "id": 7,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Pattanam (Muziris) Roman Trade Port",
+        "ta": "பட்டணம் (முசிறி) ரோமானிய வணிகத் துறைமுகம்"
+      },
+      "date": {
+        "year": -100,
+        "display": {
+          "en": "1st c. BCE - 3rd c. CE",
+          "ta": "1st c. BCE - 3rd c. CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Pattanam",
+          "ta": "Pattanam"
+        },
+        "district": {
+          "en": "Ernakulam",
+          "ta": "Ernakulam"
+        },
+        "state": {
+          "en": "Kerala",
+          "ta": "கேரளா"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Ancient Muziris — largest Roman amphora assemblage from any Indian Ocean site. 129,000 artifacts prove Tamil maritime dominance. Periplus calls it 'first emporium of India'.",
+        "ta": "பண்டைய முசிறி - எந்த இந்திய சமுத்திர தளத்திலும் இல்லாத மிகப்பெரிய ரோமானிய ஆம்போரா தொகுப்பு. 129,000 கலைப்பொருட்கள் தமிழ் கடல் ஆதிக்கத்தை நிரூபிக்கின்றன. பெரிப்ளஸ் இதை 'இந்தியாவின் முதல் எம்போரியம்' என்கிறது."
+      },
+      "keyFindings": [
+        {
+          "en": "6,029 amphora sherds (largest Indian Ocean assemblage)",
+          "ta": "6,029 amphora sherds (largest Indian Ocean assemblage)"
+        },
+        {
+          "en": "129,000 total artifacts",
+          "ta": "129,000 total artifacts"
+        },
+        {
+          "en": "6m × 7.3m wharf with 9 teak bollards",
+          "ta": "6m × 7.3m wharf with 9 teak bollards"
+        },
+        {
+          "en": "6m wooden canoe (~2,000 years old)",
+          "ta": "6m wooden canoe (~2,000 years old)"
+        },
+        {
+          "en": "20 pieces terra sigillata",
+          "ta": "20 pieces terra sigillata"
+        },
+        {
+          "en": "3.5 million local ceramic sherds",
+          "ta": "3.5 million local ceramic sherds"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Akananuru / Periplus",
+          "ta": "Akananuru / Periplus"
+        },
+        "relevance": {
+          "en": "Both Tamil and Greek sources describe Muziris trade",
+          "ta": "Both Tamil and Greek sources describe Muziris trade"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "The beautiful vessels of the Yavanas arrive with gold and depart with pepper.",
+          "ta": "யவனர் தந்த வினைமான் நன்கலம் பொன்னொடு வந்து கறியொடு பெயரும் வளங்கெழு முசிறி"
+        },
+        "source": {
+          "en": "Akananuru 149",
+          "ta": "அகநானூறு 149"
+        },
+        "author": {
+          "en": "Paranar",
+          "ta": "பரணர்"
+        },
+        "translator": null,
+        "context": {
+          "en": "Describes Roman ships at Muziris (Periyar River)",
+          "ta": "முசிறியில் (பெரியாறு) ரோமானிய கப்பல்களை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.kchr.ac.in/archive/87/Pattanam-Archaeological-Research.html",
+          "title": {
+            "en": "KCHR: Pattanam Excavations",
+            "ta": "KCHR: Pattanam Excavations"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Pattanam",
+          "title": {
+            "en": "Wikipedia: Pattanam",
+            "ta": "Wikipedia: Pattanam"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Muziris",
+          "title": {
+            "en": "Wikipedia: Muziris",
+            "ta": "Wikipedia: Muziris"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "indo_roman_trade",
+        "periplus",
+        "port",
+        "chera",
+        "amphorae",
+        "wharf"
+      ]
+    },
+    {
+      "id": 8,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Poompuhar Chola Port City",
+        "ta": "பூம்புகார் சோழ துறைமுக நகரம்"
+      },
+      "date": {
+        "year": -300,
+        "display": {
+          "en": "300 BCE - 300 CE",
+          "ta": "300 BCE - 300 CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Poompuhar (Kaveripattinam)",
+          "ta": "Poompuhar (Kaveripattinam)"
+        },
+        "district": {
+          "en": "Mayiladuthurai",
+          "ta": "Mayiladuthurai"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "The lost Atlantis of Tamil civilization — a Chola port city described in the Silappatikaram epic where 'ships creaked with wealth from all seven continents,' now lying 5 km offshore at 23 meters depth, its harbor and brick structures confirmed by underwater archaeology.",
+        "ta": "தமிழ் நாகரிகத்தின் இழந்த அட்லாண்டிஸ் - சிலப்பதிகார காவியத்தில் விவரிக்கப்பட்ட சோழ துறைமுக நகரம், 'ஏழு கண்டங்களின் செல்வத்தால் கப்பல்கள் கரகரத்தன', இப்போது கடற்கரையிலிருந்து 5 கி.மீ தொலைவில் 23 மீட்டர் ஆழத்தில், நீர்மூழ்கி தொல்லியல் மூலம் துறைமுகம் மற்றும் செங்கல் கட்டமைப்புகள் உறுதிப்படுத்தப்பட்டன."
+      },
+      "keyFindings": [
+        {
+          "en": "Horseshoe structure at 23m depth (5km offshore)",
+          "ta": "23 மீ ஆழத்தில் குதிரைக்கால் அமைப்பு (கடற்கரையிலிருந்து 5 கி.மீ)"
+        },
+        {
+          "en": "Submerged brick formations and wharves",
+          "ta": "மூழ்கிய செங்கல் அமைப்புகள் மற்றும் படகுத்துறைகள்"
+        },
+        {
+          "en": "Terracotta ring wells",
+          "ta": "மண்பாண்ட வளைய கிணறுகள்"
+        },
+        {
+          "en": "Shipwreck near Vanagiri (19.5m depth)",
+          "ta": "வனகிரி அருகே கப்பல் சிதைவு (19.5 மீ ஆழம்)"
+        },
+        {
+          "en": "Ceramics dated to 2nd c. BCE",
+          "ta": "கி.மு. 2ஆம் நூற்றாண்டு என காலம் நிர்ணயிக்கப்பட்ட மட்பாண்டங்கள்"
+        },
+        {
+          "en": "Buddha Vihara and Jain temples",
+          "ta": "புத்த விகாரம் மற்றும் சமண கோயில்கள்"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Silappatikaram",
+          "ta": "சிலப்பதிகாரம்"
+        },
+        "relevance": {
+          "en": "Detailed descriptions of harbor, trade, city divisions",
+          "ta": "Detailed descriptions of harbor, trade, city divisions"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Ships creaked in with wealth from all seven continents.",
+          "ta": "நானிலம் தாங்கிய நலங்கெழு செல்வமொடு கடலோடு புணர்ந்த பண்டைச் செல்வம்"
+        },
+        "source": {
+          "en": "Silappatikaram, Book 1",
+          "ta": "சிலப்பதிகாரம், காண்டம் 1"
+        },
+        "author": {
+          "en": "Ilango Adigal",
+          "ta": "இளங்கோ அடிகள்"
+        },
+        "translator": null,
+        "context": {
+          "en": "Describing Puhar's international maritime trade",
+          "ta": "புகாரின் சர்வதேச கடல் வர்த்தகத்தை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.researchgate.net/publication/27666914_Marine_archaeological_explorations_in_the_Kaveripoompattinam_regions_Fresh_light_on_the_structural_remains",
+          "title": {
+            "en": "ResearchGate: Marine archaeological explorations",
+            "ta": "ResearchGate: Marine archaeological explorations"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://thefederal.com/states/south/tamil-nadu/asi-revives-underwater-archaeology-wing-tn-can-now-unearth-poompuhar",
+          "title": {
+            "en": "The Federal: ASI underwater archaeology",
+            "ta": "The Federal: ASI underwater archaeology"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Poombuhar",
+          "title": {
+            "en": "Wikipedia: Poombuhar",
+            "ta": "Wikipedia: Poombuhar"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "underwater_archaeology",
+        "chola",
+        "port",
+        "silappatikaram",
+        "submerged_city"
+      ]
+    },
+    {
+      "id": 9,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Korkai Pearl Fishing Capital",
+        "ta": "கொற்கை முத்து சேகரிப்பு தலைநகரம்"
+      },
+      "date": {
+        "year": -300,
+        "display": {
+          "en": "300 BCE - 300 CE",
+          "ta": "300 BCE - 300 CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Korkai",
+          "ta": "Korkai"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "Thoothukudi"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Ancient capital of the Pandyas and greatest pearl fishing center in the ancient world — where divers descended over 100 feet with stone weights, and pearls became Rome's most expensive Indian import.",
+        "ta": "பாண்டியர்களின் பண்டைய தலைநகரம் மற்றும் பண்டைய உலகின் மிகப்பெரிய முத்து சேகரிப்பு மையம் - முத்துக்குளிப்பாளர்கள் கல் எடைகளுடன் 100 அடிக்கும் மேல் ஆழத்தில் மூழ்கினர், முத்துக்கள் ரோமின் மிக விலையுயர்ந்த இந்திய இறக்குமதியாக மாறின."
+      },
+      "keyFindings": [
+        {
+          "en": "Capital of Early Pandyan Kingdom",
+          "ta": "ஆரம்பகால பாண்டிய அரசின் தலைநகரம்"
+        },
+        {
+          "en": "Tamil-Brahmi inscribed pottery (300-200 BCE)",
+          "ta": "தமிழ்-பிராமி பொறிக்கப்பட்ட மட்பாண்டம் (கி.மு. 300-200)"
+        },
+        {
+          "en": "Pearl oyster cutting factories",
+          "ta": "முத்துச் சிப்பி வெட்டும் தொழிற்சாலைகள்"
+        },
+        {
+          "en": "Conch shell workshops",
+          "ta": "சங்கு பட்டறைகள்"
+        },
+        {
+          "en": "Named 'Colchi' in Periplus, 'Kolkhai' in Ptolemy",
+          "ta": "பெரிப்ளஸில் 'கொல்சி', தாலமியில் 'கொல்கை' என்று பெயரிடப்பட்டது"
+        },
+        {
+          "en": "Sea receded ~6 km in 2000 years",
+          "ta": "2000 ஆண்டுகளில் கடல் ~6 கி.மீ பின்வாங்கியது"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Akananuru / Periplus",
+          "ta": "Akananuru / Periplus"
+        },
+        "relevance": {
+          "en": "Both Tamil and Greek sources describe Korkai's pearl industry",
+          "ta": "Both Tamil and Greek sources describe Korkai's pearl industry"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Cool, sparkling pearls brought by spreading waves to shores near Korkai city, belonging to king Vazhuthi with fine chariots... the waterlily flowers opened by bees in the curved backwaters.",
+          "ta": "இவர் திரை தந்த ஈர்ங்கதிர் முத்தம் கவர் நடைப் புரவிக் கால் வடுத் தபுக்கும் நற்தேர் வழுதி கொற்கை முன் துறை"
+        },
+        "source": {
+          "en": "Akananuru 130",
+          "ta": "அகநானூறு 130"
+        },
+        "author": {
+          "en": "Venkannanār",
+          "ta": "வெண்கண்ணனார்"
+        },
+        "translator": "Vaidehi",
+        "context": {
+          "en": "Describes Pandyan pearl coast",
+          "ta": "பாண்டிய முத்துக் கரையை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.researchgate.net/publication/346084639_KORKAI_-AN_EMPORIUM_OF_PEARL_TRADE_OF_ANCIENT_TAMIL_COUNTRY_1",
+          "title": {
+            "en": "ResearchGate: Korkai Pearl Trade",
+            "ta": "ResearchGate: Korkai Pearl Trade"
+          }
+        },
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/korkai",
+          "title": {
+            "en": "TN Archaeology: Korkai",
+            "ta": "TN Archaeology: Korkai"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Korkai",
+          "title": {
+            "en": "Wikipedia: Korkai",
+            "ta": "Wikipedia: Korkai"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "pearl_fishing",
+        "pandya",
+        "periplus",
+        "ptolemy",
+        "port"
+      ]
+    },
+    {
+      "id": 10,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Alagankulam Roman Trade Port",
+        "ta": "அழகன்குளம் ரோமானிய வணிகத் துறைமுகம்"
+      },
+      "date": {
+        "year": -500,
+        "display": {
+          "en": "500 BCE - 400 CE",
+          "ta": "500 BCE - 400 CE"
+        },
+        "rangeEnd": 400,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Alagankulam",
+          "ta": "Alagankulam"
+        },
+        "district": {
+          "en": "Ramanathapuram",
+          "ta": "ராமநாதபுரம்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Major Pandya trading center at the Vaigai delta. Roman coins including Valentine II (380 CE), amphorae, and shell bangle manufacturing since 500 BCE.",
+        "ta": "வைகை டெல்டாவில் முக்கிய பாண்டிய வணிக மையம். வாலண்டைன் II (கி.பி. 380) உட்பட ரோமானிய நாணயங்கள், ஆம்போரா மற்றும் கி.மு. 500 முதல் சங்கு வளையல் உற்பத்தி."
+      },
+      "keyFindings": [
+        {
+          "en": "Rouletted ware with ship figure",
+          "ta": "கப்பல் உருவத்துடன் ரூலெட்டட் பாத்திரம்"
+        },
+        {
+          "en": "Roman amphorae and Arretine ware",
+          "ta": "ரோமானிய ஆம்போரா மற்றும் அரெட்டைன் பாத்திரங்கள்"
+        },
+        {
+          "en": "Byzantine coins of Valentine II (380 CE)",
+          "ta": "வாலண்டைன் II இன் பைசாந்திய நாணயங்கள் (கி.பி. 380)"
+        },
+        {
+          "en": "Northern African red ware from Tunisia",
+          "ta": "துனிசியாவிலிருந்து வட ஆப்பிரிக்க சிவப்பு பாத்திரம்"
+        },
+        {
+          "en": "Shell bangle manufacturing (since 500 BCE)",
+          "ta": "சங்கு வளையல் உற்பத்தி (கி.மு. 500 முதல்)"
+        },
+        {
+          "en": "Iron smelting workshop",
+          "ta": "இரும்பு உருக்கு பட்டறை"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/alagankulam",
+          "title": {
+            "en": "TN Archaeology: Alagankulam",
+            "ta": "TN Archaeology: Alagankulam"
+          }
+        },
+        {
+          "type": "academic",
+          "url": "https://www.nature.com/articles/s40494-020-00402-2",
+          "title": {
+            "en": "npj Heritage Science: Pottery production",
+            "ta": "npj Heritage Science: Pottery production"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "indo_roman_trade",
+        "pandya",
+        "port",
+        "shell_bangles",
+        "byzantine"
+      ]
+    },
+    {
+      "id": 11,
+      "era": "SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Purananuru War Poetry Composed",
+        "ta": "புறநானூறு போர்க் கவிதைகள் இயற்றப்பட்டன"
+      },
+      "date": {
+        "year": -100,
+        "display": {
+          "en": "100 BCE - 250 CE",
+          "ta": "100 BCE - 250 CE"
+        },
+        "rangeEnd": 250,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "400 heroic poems by 157 poets praising Tamil kings and warriors. Documents Indo-Roman trade, hero stone worship, and warrior ethics. Archaeological correlations with Poompuhar, Arikamedu, and Kodumanal.",
+        "ta": "157 புலவர்களால் 400 வீரகாவியங்கள், தமிழ் மன்னர்கள் மற்றும் போர்வீரர்களைப் புகழ்கின்றன. இந்தோ-ரோமானிய வர்த்தகம், நடுகல் வழிபாடு மற்றும் போர்வீர நெறிமுறைகளை ஆவணப்படுத்துகிறது. பூம்புகார், அரிக்கமேடு மற்றும் கொடுமணலுடன் தொல்லியல் தொடர்புகள்."
+      },
+      "keyFindings": [
+        {
+          "en": "400 poems (2 lost)",
+          "ta": "400 பாடல்கள் (2 இழந்தவை)"
+        },
+        {
+          "en": "157 poets including 10+ women",
+          "ta": "10+ பெண்கள் உட்பட 157 புலவர்கள்"
+        },
+        {
+          "en": "138 poems praise 43 kings",
+          "ta": "138 பாடல்கள் 43 மன்னர்களைப் புகழ்கின்றன"
+        },
+        {
+          "en": "141 poems praise 48 chieftains",
+          "ta": "141 பாடல்கள் 48 குறுநில மன்னர்களைப் புகழ்கின்றன"
+        },
+        {
+          "en": "Names match Tamil-Brahmi inscriptions",
+          "ta": "பெயர்கள் தமிழ்-பிராமி கல்வெட்டுகளுடன் பொருந்துகின்றன"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Purananuru",
+          "ta": "புறநானூறு"
+        },
+        "relevance": {
+          "en": "Primary heroic anthology",
+          "ta": "Primary heroic anthology"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "It is sweeter to die in battle with wounds on the chest than to live with wounds on the back.",
+          "ta": "மார்பிற் புண்பட்டு வீழ்ந்தனன் ஆயினும் புகழொடு விளங்கும் பூங்கொடி மகளிர் அழுது புலம்ப அன்னை அஞ்சல் என்னும் முதுகிற் புண்பட்டு வாழ்வோர் இல்லை"
+        },
+        "source": {
+          "en": "Purananuru 287",
+          "ta": "புறநானூறு 287"
+        },
+        "author": {
+          "en": "Saathandhayaar",
+          "ta": "சாத்தந்தையார்"
+        },
+        "translator": "Hart",
+        "context": {
+          "en": "Warrior ethics of Sangam Tamil society",
+          "ta": "சங்க தமிழ் சமூகத்தின் போர்வீர நெறிமுறைகள்"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://cup.columbia.edu/book/the-four-hundred-songs-of-war-and-wisdom/9780231115629/",
+          "title": {
+            "en": "Hart & Heifetz: Four Hundred Songs",
+            "ta": "Hart & Heifetz: Four Hundred Songs"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Purananuru",
+          "title": {
+            "en": "Wikipedia: Purananuru",
+            "ta": "Wikipedia: Purananuru"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "sangam_literature",
+        "poetry",
+        "warfare",
+        "kings",
+        "hero_stones"
+      ]
+    },
+    {
+      "id": 12,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Tamil Merchants in Egyptian Valley of Kings",
+        "ta": "எகிப்திய அரசர்கள் பள்ளத்தாக்கில் தமிழ் வணிகர்கள்"
+      },
+      "date": {
+        "year": 100,
+        "display": {
+          "en": "1st - 3rd c. CE",
+          "ta": "1st - 3rd c. CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Valley of the Kings",
+          "ta": "Valley of the Kings"
+        },
+        "district": {
+          "en": "Theban Necropolis",
+          "ta": "Theban Necropolis"
+        },
+        "state": {
+          "en": "Egypt",
+          "ta": "Egypt"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "~30 Tamil-Brahmi inscriptions in the Theban necropolis, including merchant 'Cikai Korran' named 8 times across 5 tombs. Evidence that Tamil traders penetrated far inland Egypt, not just coastal ports.",
+        "ta": "தீபன் கல்லறை வளாகத்தில் ~30 தமிழ்-பிராமி கல்வெட்டுகள், 'சிகை கொற்றன்' வணிகர் 5 கல்லறைகளில் 8 முறை பெயரிடப்பட்டுள்ளார். தமிழ் வணிகர்கள் கடலோர துறைமுகங்களை மட்டுமல்ல, எகிப்தின் உள்நாட்டிற்கும் ஊடுருவினர் என்பதற்கான சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "~30 inscriptions across 6 tombs",
+          "ta": "6 கல்லறைகளில் ~30 கல்வெட்டுகள்"
+        },
+        {
+          "en": "~20 in Tamil-Brahmi script",
+          "ta": "~20 தமிழ்-பிராமி எழுத்தில்"
+        },
+        {
+          "en": "Merchant 'Cikai Korran' named 8 times",
+          "ta": "'சிகை கொற்றன்' வணிகர் 8 முறை பெயரிடப்பட்டார்"
+        },
+        {
+          "en": "'Korrapuman' on pottery at Berenike",
+          "ta": "பெரெனிகேயில் மட்பாண்டத்தில் 'கொற்றபுமான்'"
+        },
+        {
+          "en": "Sanskrit inscriptions mention Kshaharata envoys",
+          "ta": "சமஸ்கிருத கல்வெட்டுகள் க்ஷஹரத தூதர்களைக் குறிப்பிடுகின்றன"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "news",
+          "url": "https://www.tamilguardian.com/content/2000-year-old-tamil-brahmi-inscriptions-discovered-egypts-valley-kings",
+          "title": {
+            "en": "Tamil Guardian: Valley of Kings inscriptions",
+            "ta": "Tamil Guardian: Valley of Kings inscriptions"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://www.deccanherald.com/india/thirty-tamili-and-prakrit-scripts-reveal-2000-year-old-india-egypt-trade-3895134",
+          "title": {
+            "en": "Deccan Herald: India-Egypt trade",
+            "ta": "Deccan Herald: India-Egypt trade"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "tamil_brahmi",
+        "egypt",
+        "foreign_inscription",
+        "merchants",
+        "indo_roman_trade"
+      ]
+    },
+    {
+      "id": 13,
+      "era": "POST_SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Tolkappiyam Grammar Compiled",
+        "ta": "தொல்காப்பியம் இலக்கணம் தொகுக்கப்பட்டது"
+      },
+      "date": {
+        "year": -100,
+        "display": {
+          "en": "100 BCE - 300 CE",
+          "ta": "100 BCE - 300 CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "MEDIUM",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "3rd c. BCE",
+            "ta": "3rd c. BCE"
+          },
+          "issue": {
+            "en": "Evidence of layered composition across centuries",
+            "ta": "Evidence of layered composition across centuries"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Earliest Tamil grammar codifying the Tinai (five landscapes) system. 1,610 sutras documenting Tamil linguistic and literary tradition — one of only two autonomous classical traditions in ancient India.",
+        "ta": "திணை (ஐந்து நிலங்கள்) முறையை குறியீடாக்கும் ஆரம்பகால தமிழ் இலக்கணம். 1,610 சூத்திரங்கள் தமிழ் மொழியியல் மற்றும் இலக்கிய மரபை ஆவணப்படுத்துகின்றன - பண்டைய இந்தியாவின் இரண்டு சுயாதீன செம்மொழி மரபுகளில் ஒன்று."
+      },
+      "keyFindings": [
+        {
+          "en": "1,610 sutras across three books",
+          "ta": "மூன்று புத்தகங்களில் 1,610 சூத்திரங்கள்"
+        },
+        {
+          "en": "Tinai system (five landscapes)",
+          "ta": "திணை முறை (ஐந்து நிலங்கள்)"
+        },
+        {
+          "en": "Documents social hierarchies: Velir, Vanikar, Velalar",
+          "ta": "சமூக படிநிலைகளை ஆவணப்படுத்துகிறது: வேளிர், வணிகர், வேளாளர்"
+        },
+        {
+          "en": "Tamil literature 'virtually independent of Sanskrit' (Zvelebil)",
+          "ta": "தமிழ் இலக்கியம் 'சமஸ்கிருதத்திலிருந்து கிட்டத்தட்ட சுதந்திரமானது' (ஸ்வெலெபில்)"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Tolkappiyam",
+          "ta": "தொல்காப்பியம்"
+        },
+        "relevance": {
+          "en": "Foundational grammar text",
+          "ta": "Foundational grammar text"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "The five landscapes of Tinai mark the regions where different forms of love bloom.",
+          "ta": "மாயோன் மேய காடுறை உலகமும் சேயோன் மேய மைவரை உலகமும் வேந்தன் மேய தீம்புனல் உலகமும் வருணன் மேய பெருமணல் உலகமும் முல்லை குறிஞ்சி மருதம் நெய்தல் எனச் சொல்லிய முறையான் சொல்லவும் படுமே"
+        },
+        "source": {
+          "en": "Tolkappiyam (Collatikaram - Landscape Section)",
+          "ta": "தொல்காப்பியம் (கொல்லட்டிகாரம் - நிலத் தெரிப்பு)"
+        },
+        "author": {
+          "en": "Tolkappiyar",
+          "ta": "தொல்காப்பியர்"
+        },
+        "translator": {
+          "en": "Adapted",
+          "ta": "பொருத்தப்பட்டது"
+        },
+        "context": {
+          "en": "Introducing the foundational Tinai system of Tamil poetics and geography",
+          "ta": "தமிழ் இலக்கியத்தின் அடிப்படை தினை முறையை அறிமுகப்படுத்துதல்"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.britannica.com/topic/Tolkappiyam",
+          "title": {
+            "en": "Britannica: Tolkappiyam",
+            "ta": "Britannica: Tolkappiyam"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tolk%C4%81ppiyam",
+          "title": {
+            "en": "Wikipedia: Tolkappiyam",
+            "ta": "Wikipedia: Tolkappiyam"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "grammar",
+        "tinai",
+        "linguistics",
+        "classical_literature"
+      ]
+    },
+    {
+      "id": 14,
+      "era": "POST_SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Thirukkural Composed",
+        "ta": "திருக்குறள் இயற்றப்பட்டது"
+      },
+      "date": {
+        "year": 500,
+        "display": {
+          "en": "~500 CE",
+          "ta": "~500 CE"
+        },
+        "rangeEnd": null,
+        "confidence": "HIGH",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "31 BCE (TN Government official date)",
+            "ta": "31 BCE (TN Government official date)"
+          },
+          "issue": {
+            "en": "Scholarly consensus places it ~500 CE",
+            "ta": "Scholarly consensus places it ~500 CE"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "1,330 ethical couplets on virtue, polity, and love by Thiruvalluvar. Translated into 64 languages with 350+ translations. Documents Tamil governance philosophy and agricultural society.",
+        "ta": "திருவள்ளுவரால் அறம், பொருள், இன்பம் குறித்த 1,330 நீதி குறள்கள். 64 மொழிகளில் 350+ மொழிபெயர்ப்புகள். தமிழ் ஆட்சித் தத்துவம் மற்றும் வேளாண் சமூகத்தை ஆவணப்படுத்துகிறது."
+      },
+      "keyFindings": [
+        {
+          "en": "1,330 kurals in 133 chapters",
+          "ta": "133 அதிகாரங்களில் 1,330 குறள்கள்"
+        },
+        {
+          "en": "Three books: Virtue, Polity, Love",
+          "ta": "மூன்று பால்கள்: அறம், பொருள், இன்பம்"
+        },
+        {
+          "en": "350+ translations in 64 languages",
+          "ta": "64 மொழிகளில் 350+ மொழிபெயர்ப்புகள்"
+        },
+        {
+          "en": "Documents agriculture as noblest profession",
+          "ta": "உழவை மிக உயர்ந்த தொழிலாக ஆவணப்படுத்துகிறது"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Thirukkural",
+          "ta": "திருக்குறள்"
+        },
+        "relevance": {
+          "en": "Ethical treatise",
+          "ta": "Ethical treatise"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "All creatures look to rain for their survival; subjects look to the ruler's fair governance for theirs.",
+          "ta": "வான்நோக்கி வாழும் உலகெல்லாம் மன்னவன் கோல்நோக்கி வாழும் குடி"
+        },
+        "source": {
+          "en": "Kural 542",
+          "ta": "குறள் 542"
+        },
+        "author": {
+          "en": "Thiruvalluvar",
+          "ta": "திருவள்ளுவர்"
+        },
+        "translator": null,
+        "context": {
+          "en": "On righteous governance",
+          "ta": "நீதியான ஆட்சி குறித்து"
+        }
+      },
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Kural",
+          "title": {
+            "en": "Wikipedia: Thirukkural",
+            "ta": "Wikipedia: Thirukkural"
+          }
+        },
+        {
+          "type": "digital",
+          "url": "https://www.projectmadurai.org/",
+          "title": {
+            "en": "Project Madurai",
+            "ta": "Project Madurai"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "ethics",
+        "classical_literature",
+        "philosophy",
+        "governance"
+      ]
+    },
+    {
+      "id": 15,
+      "era": "POST_SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Silappatikaram Epic Composed",
+        "ta": "சிலப்பதிகாரம் காவியம் இயற்றப்பட்டது"
+      },
+      "date": {
+        "year": 450,
+        "display": {
+          "en": "5th c. CE",
+          "ta": "5th c. CE"
+        },
+        "rangeEnd": 550,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Tamil epic by Jain monk Ilango Adigal describing merchant Kovalan and wife Kannagi across three Tamil kingdoms. Exceptional archaeology-literature correlation — Puhar descriptions confirmed by underwater archaeology.",
+        "ta": "சமண துறவி இளங்கோ அடிகளால் தமிழ் காவியம், வணிகர் கோவலன் மற்றும் மனைவி கண்ணகியை மூன்று தமிழ் நாடுகளில் விவரிக்கிறது. விதிவிலக்கான தொல்லியல்-இலக்கிய தொடர்பு - புகார் விவரணைகள் நீர்மூழ்கி தொல்லியல் மூலம் உறுதிப்படுத்தப்பட்டன."
+      },
+      "keyFindings": [
+        {
+          "en": "Three-kingdom narrative structure",
+          "ta": "மூன்று அரசு கதை அமைப்பு"
+        },
+        {
+          "en": "Harbor and trade descriptions validated",
+          "ta": "துறைமுகம் மற்றும் வர்த்தக விவரணைகள் உறுதிப்படுத்தப்பட்டன"
+        },
+        {
+          "en": "City division descriptions matched by archaeology",
+          "ta": "நகர பிரிவு விவரணைகள் தொல்லியலால் பொருந்தியது"
+        },
+        {
+          "en": "Bridge between Sangam and classical Tamil",
+          "ta": "Bridge between Sangam and classical Tamil"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Silappatikaram",
+          "ta": "சிலப்பதிகாரம்"
+        },
+        "relevance": {
+          "en": "Epic validated by Poompuhar underwater archaeology",
+          "ta": "Epic validated by Poompuhar underwater archaeology"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "The city where the wealth of all lands and seas converged...",
+          "ta": "நானிலமும் கடலும் ஒருங்கு தந்த செல்வம் நிறைந்த நகர்..."
+        },
+        "source": {
+          "en": "Silappatikaram, Pukar Kandam",
+          "ta": "சிலப்பதிகாரம், புகார் காண்டம்"
+        },
+        "author": {
+          "en": "Ilango Adigal",
+          "ta": "இளங்கோ அடிகள்"
+        },
+        "translator": "Scholarly adaptation",
+        "context": {
+          "en": "Describing Puhar as a center of maritime trade",
+          "ta": "புகாரை கடல் வர்த்தக மையமாக விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.britannica.com/topic/Silappathikaram",
+          "title": {
+            "en": "Britannica: Silappatikaram",
+            "ta": "Britannica: Silappatikaram"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Cilappatikaram",
+          "title": {
+            "en": "Wikipedia: Cilappatikaram",
+            "ta": "Wikipedia: Cilappatikaram"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "epic",
+        "classical_literature",
+        "jain",
+        "three_kingdoms",
+        "kannagi"
+      ]
+    },
+    {
+      "id": 16,
+      "era": "PALLAVA",
+      "type": "POLITICAL",
+      "title": {
+        "en": "Pallava Dynasty Rises",
+        "ta": "பல்லவ அரசமரபு எழுச்சி"
+      },
+      "date": {
+        "year": 600,
+        "display": {
+          "en": "600 CE",
+          "ta": "600 CE"
+        },
+        "rangeEnd": 900,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Kanchipuram",
+          "ta": "காஞ்சிபுரம்"
+        },
+        "district": {
+          "en": "Kanchipuram",
+          "ta": "காஞ்சிபுரம்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Pallava dynasty defeats Kalabhras, establishing Dravidian architectural tradition. Rock-cut temples, Sanskrit-Tamil patronage, and naval campaigns to Southeast Asia.",
+        "ta": "பல்லவ அரசமரபு களப்பிரர்களை தோற்கடித்து, திராவிட கட்டிடக்கலை மரபை நிறுவியது. குடைவரைக் கோயில்கள், சமஸ்கிருத-தமிழ் ஆதரவு மற்றும் தென்கிழக்கு ஆசியாவிற்கு கடற்படை பயணங்கள்."
+      },
+      "keyFindings": [
+        {
+          "en": "Mahendravarman I (600-630 CE): Philosopher king",
+          "ta": "மகேந்திரவர்மன் I (கி.பி. 600-630): தத்துவ அரசன்"
+        },
+        {
+          "en": "Narasimhavarman I (630-668 CE): Naval campaigns",
+          "ta": "நரசிம்மவர்மன் I (கி.பி. 630-668): கடற்படை பயணங்கள்"
+        },
+        {
+          "en": "Kailasanatha Temple, Kanchipuram",
+          "ta": "கைலாசநாதர் கோயில், காஞ்சிபுரம்"
+        },
+        {
+          "en": "Rock-cut cave temple tradition",
+          "ta": "குடைவரைக் கோயில் மரபு"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+          "title": {
+            "en": "Wikipedia: Pallava dynasty",
+            "ta": "Wikipedia: Pallava dynasty"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "pallava",
+        "dynasty",
+        "architecture",
+        "kanchipuram"
+      ]
+    },
+    {
+      "id": 17,
+      "era": "PALLAVA",
+      "type": "ARCHITECTURAL",
+      "title": {
+        "en": "Shore Temple, Mahabalipuram Built",
+        "ta": "மாமல்லபுரம் கடற்கரை கோயில் கட்டப்பட்டது"
+      },
+      "date": {
+        "year": 700,
+        "display": {
+          "en": "7th-8th c. CE",
+          "ta": "7th-8th c. CE"
+        },
+        "rangeEnd": 800,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Mahabalipuram",
+          "ta": "Mahabalipuram"
+        },
+        "district": {
+          "en": "Chengalpattu",
+          "ta": "செங்கல்பட்டு"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "UNESCO World Heritage Pallava monument. One of earliest structural stone temples in South India, establishing Dravidian temple architecture.",
+        "ta": "யுனெஸ்கோ உலக பாரம்பரிய பல்லவ நினைவுச்சின்னம். தென்னிந்தியாவின் ஆரம்பகால கற்கோயில்களில் ஒன்று, திராவிட கோயில் கட்டிடக்கலையை நிறுவியது."
+      },
+      "keyFindings": [
+        {
+          "en": "UNESCO World Heritage Site",
+          "ta": "யுனெஸ்கோ உலக பாரம்பரிய தளம்"
+        },
+        {
+          "en": "Structural stone temple (not rock-cut)",
+          "ta": "கட்டமைப்பு கல் கோயில் (குடைவரை அல்ல)"
+        },
+        {
+          "en": "Built by Rajasimha (695-722 CE)",
+          "ta": "ராஜசிம்மனால் கட்டப்பட்டது (கி.பி. 695-722)"
+        },
+        {
+          "en": "Foundation of Dravidian architectural style",
+          "ta": "திராவிட கட்டிடக்கலை பாணியின் அடிப்படை"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://asi.nic.in/pages/WorldHeritageMahabalipuram",
+          "title": {
+            "en": "ASI: Mahabalipuram",
+            "ta": "ASI: Mahabalipuram"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "pallava",
+        "unesco",
+        "temple",
+        "architecture",
+        "dravidian"
+      ]
+    },
+    {
+      "id": 18,
+      "era": "PALLAVA",
+      "type": "FOREIGN_INSCRIPTION",
+      "title": {
+        "en": "Manigramam Guild in Thailand",
+        "ta": "தாய்லாந்தில் மணிக்கிராமம் வணிகக் குழு"
+      },
+      "date": {
+        "year": 850,
+        "display": {
+          "en": "9th c. CE",
+          "ta": "9th c. CE"
+        },
+        "rangeEnd": null,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Takua Pa",
+          "ta": "Takua Pa"
+        },
+        "district": null,
+        "state": {
+          "en": "Thailand",
+          "ta": "Thailand"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Tamil merchant guild inscription in Thailand documenting Vishnu temple and artificial lake 'Avani-naranam'. Evidence of organized Tamil trading presence in Southeast Asia.",
+        "ta": "தாய்லாந்தில் விஷ்ணு கோயில் மற்றும் 'அவனிநாரணம்' செயற்கை ஏரியை ஆவணப்படுத்தும் தமிழ் வணிகக் குழு கல்வெட்டு. தென்கிழக்கு ஆசியாவில் ஒழுங்கமைக்கப்பட்ட தமிழ் வணிக இருப்பின் சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "Manigramam guild inscription",
+          "ta": "மணிக்கிராமம் வணிகக் குழு கல்வெட்டு"
+        },
+        {
+          "en": "Vishnu temple reference",
+          "ta": "விஷ்ணு கோயில் குறிப்பு"
+        },
+        {
+          "en": "Artificial lake 'Avani-naranam'",
+          "ta": "'அவனி-நாரணம்' செயற்கை ஏரி"
+        },
+        {
+          "en": "Hindu and Christian merchants",
+          "ta": "இந்து மற்றும் கிறிஸ்தவ வணிகர்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tamil_inscriptions_in_the_Malay_world",
+          "title": {
+            "en": "Wikipedia: Tamil inscriptions in Malay world",
+            "ta": "Wikipedia: Tamil inscriptions in Malay world"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "merchant_guild",
+        "manigramam",
+        "thailand",
+        "southeast_asia",
+        "vishnu"
+      ]
+    },
+    {
+      "id": 19,
+      "era": "CHOLA",
+      "type": "POLITICAL",
+      "title": {
+        "en": "Rajaraja I Reign",
+        "ta": "முதலாம் இராஜராஜன் ஆட்சி"
+      },
+      "date": {
+        "year": 985,
+        "display": {
+          "en": "985-1014 CE",
+          "ta": "985-1014 CE"
+        },
+        "rangeEnd": 1014,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Thanjavur",
+          "ta": "தஞ்சாவூர்"
+        },
+        "district": {
+          "en": "Thanjavur",
+          "ta": "தஞ்சாவூர்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Greatest Chola emperor. Built Brihadeeswarar Temple, conquered Pandya and Chera lands, naval campaigns to Sri Lanka and Maldives. Established Chola naval supremacy.",
+        "ta": "மிகப்பெரிய சோழ பேரரசர். பிரகதீஸ்வரர் கோயிலைக் கட்டினார், பாண்டிய மற்றும் சேர நிலங்களைக் கைப்பற்றினார், இலங்கை மற்றும் மாலத்தீவுகளுக்கு கடற்படை பயணங்கள். சோழ கடல் மேலாதிக்கத்தை நிறுவினார்."
+      },
+      "keyFindings": [
+        {
+          "en": "Built Brihadeeswarar Temple (1010 CE)",
+          "ta": "பிரகதீஸ்வரர் கோயிலைக் கட்டினார் (கி.பி. 1010)"
+        },
+        {
+          "en": "Destroyed Kulashekhara fleet at Kandalur Salai",
+          "ta": "கந்தளூர் சாலையில் குலசேகர கடற்படையை அழித்தார்"
+        },
+        {
+          "en": "Conquered Lakshadweep and Maldives",
+          "ta": "லட்சத்தீவு மற்றும் மாலத்தீவுகளைக் கைப்பற்றினார்"
+        },
+        {
+          "en": "Expeditions to Sri Lanka",
+          "ta": "இலங்கைக்கு பயணங்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Rajaraja_I",
+          "title": {
+            "en": "Wikipedia: Rajaraja I",
+            "ta": "Wikipedia: Rajaraja I"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "chola",
+        "rajaraja",
+        "empire",
+        "naval",
+        "thanjavur"
+      ]
+    },
+    {
+      "id": 20,
+      "era": "CHOLA",
+      "type": "ARCHITECTURAL",
+      "title": {
+        "en": "Brihadeeswarar Temple Completed",
+        "ta": "பிரகதீஸ்வரர் கோயில் நிறைவு"
+      },
+      "date": {
+        "year": 1010,
+        "display": {
+          "en": "1010 CE",
+          "ta": "கி.பி. 1010"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Thanjavur",
+          "ta": "தஞ்சாவூர்"
+        },
+        "district": {
+          "en": "Thanjavur",
+          "ta": "தஞ்சாவூர்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "UNESCO World Heritage 'Great Living Chola Temple'. 60-meter granite vimana topped by 80-ton capstone — engineering marvel demonstrating Chola mastery of architecture.",
+        "ta": "யுனெஸ்கோ உலக பாரம்பரிய 'பெரிய வாழும் சோழ கோயில்'. 60 மீட்டர் கிரானைட் விமானம் 80 டன் சிகர கல்லால் மகுடம் சூட்டப்பட்டது - சோழ கட்டிடக்கலை திறனை நிரூபிக்கும் பொறியியல் அதிசயம்."
+      },
+      "keyFindings": [
+        {
+          "en": "60m vimana (tallest of its era)",
+          "ta": "60 மீ விமானம் (அதன் காலத்தில் மிக உயர்ந்தது)"
+        },
+        {
+          "en": "80-ton capstone",
+          "ta": "80 டன் சிகர கல்"
+        },
+        {
+          "en": "UNESCO World Heritage Site",
+          "ta": "யுனெஸ்கோ உலக பாரம்பரிய தளம்"
+        },
+        {
+          "en": "4km ramp for capstone placement",
+          "ta": "சிகர கல் வைப்பதற்கான 4 கி.மீ சரிவு"
+        },
+        {
+          "en": "Extensive bronze collection",
+          "ta": "விரிவான வெண்கல தொகுப்பு"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://asi.nic.in/pages/WorldHeritageCholaTemples",
+          "title": {
+            "en": "ASI: Great Living Chola Temples",
+            "ta": "ASI: Great Living Chola Temples"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+          "title": {
+            "en": "Wikipedia: Brihadeeswarar Temple",
+            "ta": "Wikipedia: Brihadeeswarar Temple"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "chola",
+        "unesco",
+        "temple",
+        "architecture",
+        "rajaraja",
+        "granite"
+      ]
+    },
+    {
+      "id": 21,
+      "era": "CHOLA",
+      "type": "MILITARY",
+      "title": {
+        "en": "Rajendra Chola Defeats Srivijaya",
+        "ta": "இராஜேந்திர சோழன் ஸ்ரீவிஜயத்தை தோற்கடித்தார்"
+      },
+      "date": {
+        "year": 1025,
+        "display": {
+          "en": "1025 CE",
+          "ta": "கி.பி. 1025"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Malacca Strait",
+          "ta": "Malacca Strait"
+        },
+        "district": null,
+        "state": {
+          "en": "Southeast Asia",
+          "ta": "Southeast Asia"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Massive Chola naval expedition breaks Srivijaya's maritime monopoly. Maharaja Sangrama Vijayottunggavarman captured. Led to expansion of Tamil merchant guilds throughout Southeast Asia.",
+        "ta": "மாபெரும் சோழ கடற்படை பயணம் ஸ்ரீவிஜயத்தின் கடல் ஏகபோகத்தை உடைத்தது. மகாராஜா சங்கிராம விஜயோத்துங்கவர்மன் பிடிக்கப்பட்டார். தென்கிழக்கு ஆசியா முழுவதும் தமிழ் வணிகக் குழுக்களின் விரிவாக்கத்திற்கு வழிவகுத்தது."
+      },
+      "keyFindings": [
+        {
+          "en": "Chola victory ends Srivijaya monopoly",
+          "ta": "சோழ வெற்றி ஸ்ரீவிஜய ஏகபோகத்தை முடிவுக்குக் கொண்டுவந்தது"
+        },
+        {
+          "en": "Maharaja captured",
+          "ta": "மகாராஜா பிடிக்கப்பட்டார்"
+        },
+        {
+          "en": "Most Srivijayan cities destroyed",
+          "ta": "பெரும்பாலான ஸ்ரீவிஜய நகரங்கள் அழிக்கப்பட்டன"
+        },
+        {
+          "en": "End of Sailendra dynasty",
+          "ta": "சைலேந்திர வம்சத்தின் முடிவு"
+        },
+        {
+          "en": "Tamil guild expansion followed",
+          "ta": "தமிழ் வணிகக் குழு விரிவாக்கம் தொடர்ந்தது"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Chola_invasion_of_Srivijaya",
+          "title": {
+            "en": "Wikipedia: Chola invasion of Srivijaya",
+            "ta": "Wikipedia: Chola invasion of Srivijaya"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Chola_Navy",
+          "title": {
+            "en": "Wikipedia: Chola Navy",
+            "ta": "Wikipedia: Chola Navy"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "chola",
+        "rajendra",
+        "naval",
+        "srivijaya",
+        "southeast_asia",
+        "conquest"
+      ]
+    },
+    {
+      "id": 22,
+      "era": "CHOLA",
+      "type": "FOREIGN_INSCRIPTION",
+      "title": {
+        "en": "Ayyavole Guild in Sumatra",
+        "ta": "சுமாத்ராவில் ஐநூற்றுவர் வணிகக் குழு"
+      },
+      "date": {
+        "year": 1088,
+        "display": {
+          "en": "1088 CE",
+          "ta": "கி.பி. 1088"
+        },
+        "rangeEnd": null,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Lobu Tua, Barus",
+          "ta": "Lobu Tua, Barus"
+        },
+        "district": null,
+        "state": {
+          "en": "Sumatra, Indonesia",
+          "ta": "Sumatra, Indonesia"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Tamil merchant guild (Five Hundred Lords of Ayyavole) inscription at Barus, center of camphor and benzoin trade. Evidence of sustained Tamil commercial presence post-Chola conquest.",
+        "ta": "கற்பூரம் மற்றும் பென்சோயின் வர்த்தக மையமான பாருஸில் தமிழ் வணிகக் குழு (ஐநூற்றுவர்) கல்வெட்டு. சோழ வெற்றிக்குப் பின் நிலையான தமிழ் வணிக இருப்பின் சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "Ayyavole 500 guild inscription",
+          "ta": "ஐயாவொளே 500 வணிகக் குழு கல்வெட்டு"
+        },
+        {
+          "en": "Barus: camphor and benzoin trade center",
+          "ta": "பாருஸ்: கற்பூரம் மற்றும் பென்சோயின் வர்த்தக மையம்"
+        },
+        {
+          "en": "Post-Srivijaya Tamil expansion",
+          "ta": "ஸ்ரீவிஜயத்திற்குப் பின் தமிழ் விரிவாக்கம்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Five_Hundred_Lords_of_Ayyavolu",
+          "title": {
+            "en": "Wikipedia: Ayyavole guild",
+            "ta": "Wikipedia: Ayyavole guild"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "merchant_guild",
+        "ayyavole",
+        "sumatra",
+        "indonesia",
+        "southeast_asia"
+      ]
+    },
+    {
+      "id": 23,
+      "era": "PANDYA_REVIVAL",
+      "type": "POLITICAL",
+      "title": {
+        "en": "Jatavarman Sundara Pandya I — 'Richest Empire'",
+        "ta": "முதலாம் ஜடாவர்மன் சுந்தர பாண்டியன் — 'மிகச்சிறந்த பேரரசு'"
+      },
+      "date": {
+        "year": 1251,
+        "display": {
+          "en": "1251-1268 CE",
+          "ta": "1251-1268 CE"
+        },
+        "rangeEnd": 1268,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Madurai",
+          "ta": "மதுரை"
+        },
+        "district": {
+          "en": "Madurai",
+          "ta": "மதுரை"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Peak of Pandya revival. Marco Polo (1290) described the kingdom as 'one of the richest empires in existence'. Meenakshi Temple patronage.",
+        "ta": "பாண்டிய மறுமலர்ச்சியின் உச்சம். மார்க்கோ போலோ (1290) இந்த ராஜ்ஜியத்தை 'இருக்கும் மிகச்சிறந்த பேரரசுகளில் ஒன்று' என்று விவரித்தார். மீனாட்சி கோயில் ஆதரவு."
+      },
+      "keyFindings": [
+        {
+          "en": "Marco Polo attestation",
+          "ta": "மார்க்கோ போலோ சான்றுரை"
+        },
+        {
+          "en": "Meenakshi Temple patronage",
+          "ta": "மீனாட்சி கோயில் ஆதரவு"
+        },
+        {
+          "en": "Maximum territorial extent under successor",
+          "ta": "வாரிசின் கீழ் அதிகபட்ச நிலப்பரப்பு"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Meenakshi Akilandeswari Stotram (Temple Inscriptions)",
+          "ta": "மீனாக்ஷி அகிலாண்டேஸ்வரி ஸ்தோத்திரம் (கோயில் கல்வெட்டுக்கள்)"
+        },
+        "relevance": {
+          "en": "Meenakshi Temple patronage under Jatavarman represents continued devotional and cultural legacy",
+          "ta": "சடாவர்மன் கீழ் மீனாக்ஷி கோயில் பரிபாலனம் நிலைத்த பக்தி மற்றும் கலாச்சார மரபைப் பிரதிநிதித்துவம் செய்கிறது"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "One of the richest empires in existence.",
+          "ta": "உலகில் உள்ள மிகச்சிறந்த பேரரசுகளில் ஒன்று."
+        },
+        "source": {
+          "en": "Marco Polo's Travels",
+          "ta": "மார்க்கோ போலோவின் பயணக் குறிப்புகள்"
+        },
+        "author": {
+          "en": "Marco Polo",
+          "ta": "மார்க்கோ போலோ"
+        },
+        "translator": null,
+        "context": {
+          "en": "Describing Pandya kingdom (1290)",
+          "ta": "பாண்டிய அரசை விவரிக்கிறது (1290)"
+        }
+      },
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+          "title": {
+            "en": "Wikipedia: Pandya dynasty",
+            "ta": "Wikipedia: Pandya dynasty"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "pandya",
+        "marco_polo",
+        "madurai",
+        "meenakshi",
+        "wealth"
+      ]
+    },
+    {
+      "id": 24,
+      "era": "NAYAK",
+      "type": "POLITICAL",
+      "title": {
+        "en": "Vijayanagara Empire Founded",
+        "ta": "விஜயநகர பேரரசு நிறுவப்பட்டது"
+      },
+      "date": {
+        "year": 1336,
+        "display": {
+          "en": "1336 CE",
+          "ta": "கி.பி. 1336"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Hampi",
+          "ta": "Hampi"
+        },
+        "district": null,
+        "state": {
+          "en": "Karnataka",
+          "ta": "Karnataka"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Foundation of Vijayanagara Empire after Delhi Sultanate invasions. Later gave rise to Nayak kingdoms in Tamil Nadu (Thanjavur, Madurai, Gingee).",
+        "ta": "டெல்லி சுல்தானேட் படையெடுப்புகளுக்குப் பின் விஜயநகர பேரரசின் தோற்றம். பின்னர் தமிழ்நாட்டில் நாயக்க ராஜ்ஜியங்களை (தஞ்சாவூர், மதுரை, செஞ்சி) உருவாக்கியது."
+      },
+      "keyFindings": [
+        {
+          "en": "Post-Malik Kafur invasion recovery",
+          "ta": "மாலிக் காஃபூர் படையெடுப்பிற்குப் பின் மீட்சி"
+        },
+        {
+          "en": "Foundation for Nayak kingdoms",
+          "ta": "நாயக்க ராஜ்ஜியங்களுக்கான அடிப்படை"
+        },
+        {
+          "en": "Meenakshi Temple expansions under Nayaks",
+          "ta": "நாயக்கர்களின் கீழ் மீனாட்சி கோயில் விரிவாக்கங்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+          "title": {
+            "en": "Wikipedia: Vijayanagara Empire",
+            "ta": "Wikipedia: Vijayanagara Empire"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "vijayanagara",
+        "nayak",
+        "empire",
+        "recovery"
+      ]
+    },
+    {
+      "id": 25,
+      "era": "COLONIAL",
+      "type": "POLITICAL",
+      "title": {
+        "en": "British Establish Fort St. George",
+        "ta": "ஆங்கிலேயர் புனித ஜார்ஜ் கோட்டையை நிறுவினர்"
+      },
+      "date": {
+        "year": 1639,
+        "display": {
+          "en": "1639 CE",
+          "ta": "கி.பி. 1639"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Madras (Chennai)",
+          "ta": "Madras (Chennai)"
+        },
+        "district": {
+          "en": "Chennai",
+          "ta": "சென்னை"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "British East India Company granted Madras. Fort St. George becomes nucleus of British expansion in South India, eventually forming Madras Presidency.",
+        "ta": "பிரிட்டிஷ் கிழக்கிந்திய கம்பெனிக்கு மெட்ராஸ் வழங்கப்பட்டது. புனித ஜார்ஜ் கோட்டை தென்னிந்தியாவில் பிரிட்டிஷ் விரிவாக்கத்தின் மையமாகி, இறுதியில் மெட்ராஸ் மாகாணத்தை உருவாக்கியது."
+      },
+      "keyFindings": [
+        {
+          "en": "First major British settlement in South India",
+          "ta": "தென்னிந்தியாவில் முதல் பெரிய பிரிட்டிஷ் குடியேற்றம்"
+        },
+        {
+          "en": "Foundation of Madras Presidency",
+          "ta": "மெட்ராஸ் மாகாணத்தின் அடிப்படை"
+        },
+        {
+          "en": "Colonial period begins",
+          "ta": "காலனித்துவ காலம் தொடங்குகிறது"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Fort_St._George,_Chennai",
+          "title": {
+            "en": "Wikipedia: Fort St. George",
+            "ta": "Wikipedia: Fort St. George"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "british",
+        "colonial",
+        "fort",
+        "madras",
+        "east_india_company"
+      ]
+    },
+    {
+      "id": 26,
+      "era": "MODERN",
+      "type": "POLITICAL",
+      "title": {
+        "en": "Tamil Nadu State Formed",
+        "ta": "தமிழ்நாடு மாநிலம் உருவாக்கப்பட்டது"
+      },
+      "date": {
+        "year": 1969,
+        "display": {
+          "en": "1969 CE",
+          "ta": "1969 CE"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Chennai",
+          "ta": "சென்னை"
+        },
+        "district": {
+          "en": "Chennai",
+          "ta": "சென்னை"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Madras State renamed Tamil Nadu ('Land of Tamils'). Culmination of Dravidian movement and linguistic state reorganization.",
+        "ta": "மெட்ராஸ் மாநிலம் தமிழ்நாடு ('தமிழர் நாடு') என மறுபெயரிடப்பட்டது. திராவிட இயக்கம் மற்றும் மொழிவழி மாநில மறுசீரமைப்பின் உச்சம்."
+      },
+      "keyFindings": [
+        {
+          "en": "1947: Indian Independence",
+          "ta": "1947: இந்திய சுதந்திரம்"
+        },
+        {
+          "en": "1956: Linguistic state reorganization",
+          "ta": "1956: மொழிவழி மாநில மறுசீரமைப்பு"
+        },
+        {
+          "en": "1965: Anti-Hindi agitation",
+          "ta": "1965: இந்தி எதிர்ப்பு போராட்டம்"
+        },
+        {
+          "en": "1967: DMK election victory",
+          "ta": "1967: திமுக தேர்தல் வெற்றி"
+        },
+        {
+          "en": "1969: State renamed Tamil Nadu",
+          "ta": "1969: மாநிலம் தமிழ்நாடு என மறுபெயரிடப்பட்டது"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+          "title": {
+            "en": "Wikipedia: Tamil Nadu",
+            "ta": "Wikipedia: Tamil Nadu"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "modern",
+        "dravidian",
+        "linguistic_state",
+        "independence"
+      ]
+    },
+    {
+      "id": 27,
+      "era": "MODERN",
+      "type": "CULTURAL",
+      "title": {
+        "en": "Tamil Recognized as Classical Language",
+        "ta": "தமிழ் செம்மொழியாக அங்கீகரிக்கப்பட்டது"
+      },
+      "date": {
+        "year": 2004,
+        "display": {
+          "en": "2004 CE",
+          "ta": "2004 CE"
+        },
+        "rangeEnd": null,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "India",
+          "ta": "India"
+        },
+        "district": null,
+        "state": null,
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Government of India recognizes Tamil as Classical Language — first language to receive this status. Acknowledges 2,000+ year literary tradition from Sangam era.",
+        "ta": "இந்திய அரசு தமிழை செம்மொழியாக அங்கீகரித்தது - இந்த அந்தஸ்தைப் பெற்ற முதல் மொழி. சங்க காலத்திலிருந்து 2,000+ ஆண்டு இலக்கிய மரபை அங்கீகரிக்கிறது."
+      },
+      "keyFindings": [
+        {
+          "en": "First language designated Classical",
+          "ta": "செம்மொழியாக நியமிக்கப்பட்ட முதல் மொழி"
+        },
+        {
+          "en": "Sangam literature as evidence",
+          "ta": "சான்றாக சங்க இலக்கியம்"
+        },
+        {
+          "en": "Tolkappiyam grammar as evidence",
+          "ta": "சான்றாக தொல்காப்பிய இலக்கணம்"
+        },
+        {
+          "en": "2019: Adichanallur AMS dating confirms 905-696 BCE",
+          "ta": "2019: ஆதிச்சநல்லூர் AMS காலநிர்ணயம் கி.மு. 905-696 உறுதிப்படுத்துகிறது"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.mha.gov.in/",
+          "title": {
+            "en": "Ministry of Home Affairs",
+            "ta": "Ministry of Home Affairs"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "classical_language",
+        "recognition",
+        "modern",
+        "government"
+      ]
+    }
+  ],
+  "eras": {
+    "PRE_SANGAM": {
+      "name": {
+        "en": "Pre-Sangam / Iron Age",
+        "ta": "சங்கத்திற்கு முந்தைய / இரும்பு யுகம்"
+      },
+      "start": -1200,
+      "end": -300,
+      "color": "#8B4513"
+    },
+    "SANGAM": {
+      "name": {
+        "en": "Sangam Age",
+        "ta": "சங்க காலம்"
+      },
+      "start": -300,
+      "end": 300,
+      "color": "#DAA520"
+    },
+    "POST_SANGAM": {
+      "name": {
+        "en": "Post-Sangam / Kalabhra",
+        "ta": "சங்கத்திற்கு பிந்தைய / களப்பிரர் காலம்"
+      },
+      "start": 300,
+      "end": 600,
+      "color": "#CD853F"
+    },
+    "PALLAVA": {
+      "name": {
+        "en": "Pallava Dynasty",
+        "ta": "பல்லவ வம்சம்"
+      },
+      "start": 600,
+      "end": 900,
+      "color": "#4682B4"
+    },
+    "CHOLA": {
+      "name": {
+        "en": "Medieval Chola Empire",
+        "ta": "இடைக்கால சோழப் பேரரசு"
+      },
+      "start": 850,
+      "end": 1200,
+      "color": "#DC143C"
+    },
+    "PANDYA_REVIVAL": {
+      "name": {
+        "en": "Pandya Revival",
+        "ta": "பாண்டிய மறுமலர்ச்சி"
+      },
+      "start": 1200,
+      "end": 1310,
+      "color": "#9932CC"
+    },
+    "NAYAK": {
+      "name": {
+        "en": "Vijayanagara & Nayak",
+        "ta": "விஜயநகரம் & நாயக்கர்"
+      },
+      "start": 1336,
+      "end": 1800,
+      "color": "#228B22"
+    },
+    "COLONIAL": {
+      "name": {
+        "en": "Colonial Era",
+        "ta": "காலனித்துவ காலம்"
+      },
+      "start": 1608,
+      "end": 1947,
+      "color": "#696969"
+    },
+    "MODERN": {
+      "name": {
+        "en": "Modern Tamil Nadu",
+        "ta": "நவீன தமிழ்நாடு"
+      },
+      "start": 1947,
+      "end": 2026,
+      "color": "#FF6347"
+    }
+  },
+  "typeDefinitions": {
+    "ARCHAEOLOGICAL": {
+      "en": "Excavation site with physical artifacts",
+      "ta": "இயற்பியல் கலைப்பொருட்களுடன் கூடிய அகழ்வு தளம்"
+    },
+    "LITERARY": {
+      "en": "Literary work or corpus",
+      "ta": "இலக்கியப் படைப்பு அல்லது தொகுப்பு"
+    },
+    "POLITICAL": {
+      "en": "Dynasty, ruler, or political event",
+      "ta": "வம்சம், ஆட்சியாளர் அல்லது அரசியல் நிகழ்வு"
+    },
+    "ARCHITECTURAL": {
+      "en": "Temple, monument, or structure",
+      "ta": "கோயில், நினைவுச்சின்னம் அல்லது கட்டமைப்பு"
+    },
+    "MILITARY": {
+      "en": "Battle, conquest, or military campaign",
+      "ta": "போர், வெற்றி அல்லது இராணுவப் பயணம்"
+    },
+    "FOREIGN_INSCRIPTION": {
+      "en": "Tamil inscription found outside India",
+      "ta": "இந்தியாவிற்கு வெளியே காணப்படும் தமிழ் கல்வெட்டு"
+    },
+    "CULTURAL": {
+      "en": "Cultural recognition or designation",
+      "ta": "கலாச்சார அங்கீகாரம் அல்லது பதவி"
+    }
+  },
+  "statistics": {
+    "totalEntries": 27,
+    "byEra": {
+      "PRE_SANGAM": 4,
+      "SANGAM": 8,
+      "POST_SANGAM": 3,
+      "PALLAVA": 3,
+      "CHOLA": 4,
+      "PANDYA_REVIVAL": 1,
+      "NAYAK": 1,
+      "COLONIAL": 1,
+      "MODERN": 2
+    },
+    "byType": {
+      "ARCHAEOLOGICAL": 10,
+      "LITERARY": 5,
+      "POLITICAL": 5,
+      "ARCHITECTURAL": 2,
+      "MILITARY": 1,
+      "FOREIGN_INSCRIPTION": 2,
+      "CULTURAL": 2
+    },
+    "withQuotes": 13,
+    "withContestedDates": 4
+  }
+}

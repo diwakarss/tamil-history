@@ -1,0 +1,369 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "meta": {
+    "version": "2.0.0",
+    "generated": "2026-02-27",
+    "totalStops": 27,
+    "dateRange": {
+      "earliest": -1155,
+      "latest": 2026
+    },
+    "confidenceLevels": ["VERY_HIGH", "HIGH", "MEDIUM", "LOW", "CONTESTED"]
+  },
+  "timeline": [
+    {
+      "id": 1,
+      "era": "PRE_SANGAM",
+      "title": {
+        "en": "Sivagalai Iron Age Settlement",
+        "ta": "சிவகலை இரும்பு யுக குடியேற்றம்"
+      },
+      "date": {
+        "year": -1155,
+        "display": {
+          "en": "~1155 BCE",
+          "ta": "சுமார் கி.மு. 1155"
+        },
+        "rangeEnd": null,
+        "confidence": "HIGH",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "3345-2953 BCE",
+            "ta": "கி.மு. 3345-2953"
+          },
+          "issue": {
+            "en": "2000+ year dating gap between charcoal and rice samples",
+            "ta": "கரி மற்றும் அரிசி மாதிரிகளுக்கு இடையே 2000+ ஆண்டு காலவரிசை இடைவெளி"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Sivagalai",
+          "ta": "சிவகலை"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "தூத்துக்குடி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "type": "ARCHAEOLOGICAL",
+      "summary": {
+        "en": "Iron Age settlement with 160 urn burials demonstrating advanced civilization. Rice dated to 1155 BCE via AMS radiocarbon.",
+        "ta": "முன்னேறிய நாகரிகத்தை வெளிப்படுத்தும் 160 கலச புதைகுழிகளுடன் கூடிய இரும்பு யுக குடியேற்றம். AMS கதிரியக்க கார்பன் முறையில் அரிசி கி.மு. 1155 என காலமிடப்பட்டது."
+      },
+      "keyFindings": [
+        {
+          "en": "160 urn burials across 24 trenches",
+          "ta": "24 அகழ்வு குழிகளில் 160 கலச புதைகுழிகள்"
+        },
+        {
+          "en": "85+ iron implements (knives, arrows, swords)",
+          "ta": "85+ இரும்பு கருவிகள் (கத்திகள், அம்புகள், வாள்கள்)"
+        },
+        {
+          "en": "Black-and-red ware pottery",
+          "ta": "கருப்பு-சிவப்பு மட்பாண்டங்கள்"
+        },
+        {
+          "en": "Gold pendant fragment",
+          "ta": "தங்க பதக்கத்தின் துண்டு"
+        },
+        {
+          "en": "Human skeletal remains",
+          "ta": "மனித எலும்புக்கூடு எச்சங்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "critical",
+          "url": "https://thewire.in/history/explainer-what-the-most-recent-archaeological-findings-in-tamil-nadus-sivakalai-mean",
+          "title": {
+            "en": "The Wire: Critical perspective on Sivagalai",
+            "ta": "தி வயர்: சிவகலை குறித்த விமர்சன பார்வை"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Sivagalai",
+          "title": {
+            "en": "Wikipedia: Sivagalai",
+            "ta": "விக்கிப்பீடியா: சிவகலை"
+          }
+        }
+      ],
+      "image": null,
+      "tags": ["iron_age", "burial", "pre_literary", "ams_dating"]
+    },
+    {
+      "id": 2,
+      "era": "PRE_SANGAM",
+      "title": {
+        "en": "Adichanallur Megalithic Burials",
+        "ta": "அதிச்சநல்லூர் பெருங்கல் புதைகுழிகள்"
+      },
+      "date": {
+        "year": -905,
+        "display": {
+          "en": "905-696 BCE",
+          "ta": "கி.மு. 905-696"
+        },
+        "rangeEnd": -696,
+        "confidence": "VERY_HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Adichanallur",
+          "ta": "அதிச்சநல்லூர்"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "தூத்துக்குடி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": {
+          "lat": 8.628,
+          "lng": 77.873
+        }
+      },
+      "type": "ARCHAEOLOGICAL",
+      "summary": {
+        "en": "India's largest Iron Age urn burial site. 169 burial urns containing warriors with iron swords and gold diadems, evidence of a stratified Tamil society 2,900 years ago.",
+        "ta": "இந்தியாவின் மிகப்பெரிய இரும்பு யுக கலச புதைகுழி தளம். இரும்பு வாள்கள் மற்றும் தங்க முடிகளுடன் 169 கலச புதைகுழிகள், 2,900 ஆண்டுகளுக்கு முந்தைய படிநிலை தமிழ் சமுதாயத்தின் சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "169 burial urns excavated (2004-2005)",
+          "ta": "169 கலச புதைகுழிகள் அகழ்வு செய்யப்பட்டன (2004-2005)"
+        },
+        {
+          "en": "Iron swords, spears, hatchets",
+          "ta": "இரும்பு வாள்கள், ஈட்டிகள், கோடரிகள்"
+        },
+        {
+          "en": "Gold diadems (nettri pattayam)",
+          "ta": "தங்க நெற்றிப்பட்டை"
+        },
+        {
+          "en": "High-tin bronze artifacts (75% Cu, 23% Sn)",
+          "ta": "உயர் தகரம் கொண்ட வெண்கல கலைப்பொருட்கள் (75% Cu, 23% Sn)"
+        },
+        {
+          "en": "Rice husks and millet",
+          "ta": "அரிசி உமி மற்றும் தினை"
+        },
+        {
+          "en": "Rudimentary Tamil-Brahmi on pottery",
+          "ta": "மட்பாண்டங்களில் ஆரம்பகால தமிழ் பிராமி"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Purananuru",
+          "ta": "புறநானூறு"
+        },
+        "relevance": {
+          "en": "Sangam literature preserves cultural memory of Iron Age burial practices",
+          "ta": "சங்க இலக்கியம் இரும்பு யுக புதைகுழி பழக்கவழக்கங்களின் கலாச்சார நினைவை பாதுகாக்கிறது"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Every town's our home town; every man, our kinsman; Good and evil happen not because of others... Dying isn't something unknown.",
+          "ta": "யாதும் ஊரே யாவரும் கேளிர், தீதும் நன்றும் பிறர்தர வாரா... சாதலும் புதுவது அன்றே."
+        },
+        "source": {
+          "en": "Purananuru 192",
+          "ta": "புறநானூறு 192"
+        },
+        "author": {
+          "en": "Kanian Poonkundranar",
+          "ta": "கணியன் பூங்குன்றனார்"
+        },
+        "translator": "A.K. Ramanujan",
+        "context": {
+          "en": "Philosophical meditation on death, reflecting burial customs",
+          "ta": "புதைகுழி பழக்கவழக்கங்களை பிரதிபலிக்கும் மரணம் பற்றிய தத்துவ சிந்தனை"
+        }
+      },
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://asi.nic.in/pdf/Adichchanallur-Excavation-Report.pdf",
+          "title": {
+            "en": "ASI Excavation Report",
+            "ta": "ASI அகழ்வாராய்ச்சி அறிக்கை"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://theprint.in/opinion/tamil-nadu-has-the-largest-iron-age-urn-burial-site-we-must-look-beyond-our-harappa-frenzy/2338006/",
+          "title": {
+            "en": "The Print: Tamil Nadu's largest Iron Age site",
+            "ta": "தி பிரிண்ட்: தமிழ்நாட்டின் மிகப்பெரிய இரும்பு யுக தளம்"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Adichanallur",
+          "title": {
+            "en": "Wikipedia: Adichanallur",
+            "ta": "விக்கிப்பீடியா: அதிச்சநல்லூர்"
+          }
+        }
+      ],
+      "image": null,
+      "tags": ["iron_age", "burial", "ams_dating", "gold_artifacts", "bronze", "megalithic"]
+    }
+  ],
+  "eras": {
+    "PRE_SANGAM": {
+      "name": {
+        "en": "Pre-Sangam / Iron Age",
+        "ta": "சங்கத்திற்கு முந்தைய / இரும்பு யுகம்"
+      },
+      "start": -1200,
+      "end": -300,
+      "color": "#8B4513"
+    },
+    "SANGAM": {
+      "name": {
+        "en": "Sangam Age",
+        "ta": "சங்க காலம்"
+      },
+      "start": -300,
+      "end": 300,
+      "color": "#DAA520"
+    },
+    "POST_SANGAM": {
+      "name": {
+        "en": "Post-Sangam / Kalabhra",
+        "ta": "சங்கத்திற்கு பிந்தைய / களப்பிரர் காலம்"
+      },
+      "start": 300,
+      "end": 600,
+      "color": "#CD853F"
+    },
+    "PALLAVA": {
+      "name": {
+        "en": "Pallava Dynasty",
+        "ta": "பல்லவ வம்சம்"
+      },
+      "start": 600,
+      "end": 900,
+      "color": "#4682B4"
+    },
+    "CHOLA": {
+      "name": {
+        "en": "Medieval Chola Empire",
+        "ta": "இடைக்கால சோழப் பேரரசு"
+      },
+      "start": 850,
+      "end": 1200,
+      "color": "#DC143C"
+    },
+    "PANDYA_REVIVAL": {
+      "name": {
+        "en": "Pandya Revival",
+        "ta": "பாண்டிய மறுமலர்ச்சி"
+      },
+      "start": 1200,
+      "end": 1310,
+      "color": "#9932CC"
+    },
+    "NAYAK": {
+      "name": {
+        "en": "Vijayanagara & Nayak",
+        "ta": "விஜயநகரம் & நாயக்கர்"
+      },
+      "start": 1336,
+      "end": 1800,
+      "color": "#228B22"
+    },
+    "COLONIAL": {
+      "name": {
+        "en": "Colonial Era",
+        "ta": "காலனித்துவ காலம்"
+      },
+      "start": 1608,
+      "end": 1947,
+      "color": "#696969"
+    },
+    "MODERN": {
+      "name": {
+        "en": "Modern Tamil Nadu",
+        "ta": "நவீன தமிழ்நாடு"
+      },
+      "start": 1947,
+      "end": 2026,
+      "color": "#FF6347"
+    }
+  },
+  "typeDefinitions": {
+    "ARCHAEOLOGICAL": {
+      "en": "Excavation site with physical artifacts",
+      "ta": "இயற்பியல் கலைப்பொருட்களுடன் கூடிய அகழ்வு தளம்"
+    },
+    "LITERARY": {
+      "en": "Literary work or corpus",
+      "ta": "இலக்கியப் படைப்பு அல்லது தொகுப்பு"
+    },
+    "POLITICAL": {
+      "en": "Dynasty, ruler, or political event",
+      "ta": "வம்சம், ஆட்சியாளர் அல்லது அரசியல் நிகழ்வு"
+    },
+    "ARCHITECTURAL": {
+      "en": "Temple, monument, or structure",
+      "ta": "கோயில், நினைவுச்சின்னம் அல்லது கட்டமைப்பு"
+    },
+    "MILITARY": {
+      "en": "Battle, conquest, or military campaign",
+      "ta": "போர், வெற்றி அல்லது இராணுவப் பயணம்"
+    },
+    "FOREIGN_INSCRIPTION": {
+      "en": "Tamil inscription found outside India",
+      "ta": "இந்தியாவிற்கு வெளியே காணப்படும் தமிழ் கல்வெட்டு"
+    },
+    "CULTURAL": {
+      "en": "Cultural recognition or designation",
+      "ta": "கலாச்சார அங்கீகாரம் அல்லது பதவி"
+    }
+  },
+  "statistics": {
+    "totalEntries": 27,
+    "byEra": {
+      "PRE_SANGAM": 4,
+      "SANGAM": 8,
+      "POST_SANGAM": 3,
+      "PALLAVA": 3,
+      "CHOLA": 4,
+      "PANDYA_REVIVAL": 1,
+      "NAYAK": 1,
+      "COLONIAL": 1,
+      "MODERN": 2
+    },
+    "byType": {
+      "ARCHAEOLOGICAL": 10,
+      "LITERARY": 5,
+      "POLITICAL": 5,
+      "ARCHITECTURAL": 2,
+      "MILITARY": 1,
+      "FOREIGN_INSCRIPTION": 2,
+      "CULTURAL": 2
+    },
+    "withQuotes": 12,
+    "withContestedDates": 4
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "readMore": "Read More",
+    "sources": "Sources",
+    "tags": "Tags"
+  },
+  "header": {
+    "title": "Tamil History Timeline",
+    "subtitle": "From 1155 BCE to 2026 CE",
+    "toggleLanguage": "Switch to Tamil"
+  },
+  "navigation": {
+    "scrollToTop": "Scroll to Top",
+    "nextEntry": "Next",
+    "previousEntry": "Previous",
+    "jumpToEra": "Jump to Era"
+  },
+  "eras": {
+    "PRE_SANGAM": "Pre-Sangam / Iron Age",
+    "SANGAM": "Sangam Age",
+    "POST_SANGAM": "Post-Sangam / Kalabhra",
+    "PALLAVA": "Pallava Dynasty",
+    "CHOLA": "Medieval Chola Empire",
+    "PANDYA_REVIVAL": "Pandya Revival",
+    "NAYAK": "Vijayanagara & Nayak",
+    "COLONIAL": "Colonial Era",
+    "MODERN": "Modern Tamil Nadu"
+  },
+  "confidence": {
+    "VERY_HIGH": "Very High Confidence",
+    "HIGH": "High Confidence",
+    "MEDIUM": "Medium Confidence",
+    "LOW": "Low Confidence",
+    "CONTESTED": "Contested"
+  },
+  "types": {
+    "ARCHAEOLOGICAL": "Excavation site with physical artifacts",
+    "LITERARY": "Literary work or corpus",
+    "POLITICAL": "Dynasty, ruler, or political event",
+    "ARCHITECTURAL": "Temple, monument, or structure",
+    "MILITARY": "Battle, conquest, or military campaign",
+    "FOREIGN_INSCRIPTION": "Tamil inscription found outside India",
+    "CULTURAL": "Cultural recognition or designation"
+  },
+  "entry": {
+    "dateRange": "{{start}} to {{end}}",
+    "circa": "circa {{year}}",
+    "keyFindings": "Key Findings",
+    "literaryPairing": "Literary Connection",
+    "quote": "Quote",
+    "contestedDate": "Contested Dating",
+    "contestedClaim": "Claim: {{claim}}",
+    "contestedIssue": "Issue: {{issue}}",
+    "location": "Location",
+    "district": "District",
+    "state": "State",
+    "viewOnMap": "View on Map"
+  },
+  "progress": {
+    "scrollProgress": "Scroll Progress",
+    "entriesViewed": "{{current}} of {{total}} entries viewed",
+    "era": "Current Era: {{era}}"
+  },
+  "filter": {
+    "filterByEra": "Filter by Era",
+    "filterByType": "Filter by Type",
+    "filterByConfidence": "Filter by Confidence",
+    "showAll": "Show All",
+    "showQuotesOnly": "Quotes Only",
+    "showContestedOnly": "Contested Dates Only",
+    "searchPlaceholder": "Search timeline...",
+    "noResults": "No entries found",
+    "resultsCount": "{{count}} entries found"
+  },
+  "footer": {
+    "about": "About",
+    "sources": "Sources",
+    "methodology": "Methodology",
+    "feedback": "Feedback",
+    "copyright": "© 2026 Tamil History Timeline",
+    "madeWith": "Made with research and care",
+    "lastUpdated": "Last Updated: {{date}}"
+  },
+  "source": {
+    "official": "Official",
+    "academic": "Academic",
+    "news": "News",
+    "reference": "Reference",
+    "digital": "Digital",
+    "critical": "Critical Analysis"
+  },
+  "metadata": {
+    "version": "Version {{version}}",
+    "generated": "Generated on {{date}}",
+    "totalEntries": "{{count}} timeline entries",
+    "dateSpan": "Spanning {{years}} years of history"
+  }
+}
