@@ -33,21 +33,6 @@ export function HeroScene({ nextScene }: HeroSceneProps) {
         {t("title")}
       </h1>
 
-      {/* Tamil subtitle - only show in English mode for bilingual effect */}
-      {!isTamil && (
-        <p
-          className="
-            font-tamil
-            text-[clamp(24px,6vw,48px)]
-            text-gold-dark
-            mb-10
-            opacity-0 animate-ink-reveal
-            [animation-delay:0.8s]
-          "
-        >
-          தமிழ் நாகரிகம்
-        </p>
-      )}
 
       {/* Subtitle description */}
       <p

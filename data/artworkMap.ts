@@ -3,6 +3,12 @@
  * Artwork files are in /public/images/art/
  */
 export const artworkMap: Record<string, string> = {
+  // Prehistoric Era
+  attirampakkam: "attirampakkam.webp",
+  "attirampakkam-stone-tools": "attirampakkam.webp",
+  payyampalli: "payyampalli.webp",
+  "payyampalli-neolithic": "payyampalli.webp",
+
   // Pre-Sangam Era
   sivagalai: "sivagalai.webp",
   adichanallur: "adichanallur.webp",
@@ -26,10 +32,16 @@ export const artworkMap: Record<string, string> = {
   tolkappiyam: "tolkappiyam.webp",
   thirukkural: "thirukural.webp",
   silappatikaram: "silapathikaram.webp",
+  manimekalai: "manimekalai.webp",
+  "manimekalai-epic": "manimekalai.webp",
 
   // Pallava Period
   pallava: "pallava.webp",
   "shore-temple": "shore-temple.webp",
+  nayanars: "nayanars.webp",
+  alvars: "nayanars.webp",
+  "nayanars-alvars": "nayanars.webp",
+  "bhakti-movement": "nayanars.webp",
   manigramam: "manigramam.webp",
 
   // Chola Empire
@@ -65,6 +77,16 @@ export const artworkMap: Record<string, string> = {
  * Provides historical perspective on what was happening globally
  */
 export const worldContextMap: Record<string, { en: string; ta: string }> = {
+  // Prehistoric Era
+  "attirampakkam-stone-tools": {
+    en: "Homo sapiens have not yet evolved. Neanderthals roam Europe. The Ice Ages reshape continents — while early hominins in Tamil Nadu craft sophisticated stone tools 250,000 years before modern humans leave Africa.",
+    ta: "ஹோமோ சேபியன்ஸ் இன்னும் பரிணாமம் அடையவில்லை. நியாண்டர்தால்கள் ஐரோப்பாவில் சுற்றித் திரிகின்றனர். பனி யுகங்கள் கண்டங்களை மறுவடிவமைக்கின்றன — அதே நேரத்தில் நவீன மனிதர்கள் ஆப்பிரிக்காவை விட்டு வெளியேறுவதற்கு 250,000 ஆண்டுகளுக்கு முன்பே தமிழ்நாட்டில் ஆதி மனிதர்கள் நுட்பமான கற்கருவிகளை வடிவமைக்கின்றனர்.",
+  },
+  "payyampalli-neolithic-settlement": {
+    en: "The Harappan civilization flourishes in the Indus Valley. Stonehenge is being built in Britain. The Bronze Age transforms the Near East — while Tamil farmers domesticate horse gram and settle into permanent villages.",
+    ta: "சிந்து சமவெளியில் ஹரப்பா நாகரிகம் செழிக்கிறது. பிரிட்டனில் ஸ்டோன்ஹெஞ்ச் கட்டப்படுகிறது. வெண்கல யுகம் கிழக்கு நெருக்கமான பகுதியை மாற்றுகிறது — அதே நேரத்தில் தமிழ் விவசாயிகள் கொள்ளுவை வளர்த்து நிரந்தர கிராமங்களில் குடியேறுகின்றனர்.",
+  },
+
   // Pre-Sangam Era
   "sivagalai-iron-age-settlement": {
     en: "The Trojan War is being fought in the Mediterranean. Ramesses III defends Egypt from the Sea Peoples. The Bronze Age is collapsing across the Near East — while Tamil farmers cultivate rice in the south.",
@@ -130,6 +152,10 @@ export const worldContextMap: Record<string, { en: string; ta: string }> = {
     en: "The Roman Empire splits into East and West. The Huns threaten Europe. Epic poetry defines civilizations — while Ilango Adigal weaves a tale of love and justice across three Tamil kingdoms.",
     ta: "ரோமானியப் பேரரசு கிழக்கு மேற்காகப் பிரிகிறது. ஹன்கள் ஐரோப்பாவை அச்சுறுத்துகின்றனர். காவிய இலக்கியம் நாகரிகங்களை வரையறுக்கிறது — அதே நேரத்தில் இளங்கோ அடிகள் மூன்று தமிழ் நாடுகளில் அன்பு மற்றும் நீதியின் கதையை பின்னுகிறார்.",
   },
+  "manimekalai-epic-composed": {
+    en: "The Byzantine Empire under Justinian codifies Roman law. Buddhism spreads through Central Asia. The Kalabhras rule Tamil Nadu — while Seethalai Satanar composes a Buddhist epic that questions worldly attachments.",
+    ta: "ஜஸ்டினியனின் கீழ் பைசாந்தியப் பேரரசு ரோமானிய சட்டத்தை குறியீடாக்குகிறது. புத்தமதம் மத்திய ஆசியா முழுவதும் பரவுகிறது. களப்பிரர்கள் தமிழ்நாட்டை ஆள்கின்றனர் — அதே நேரத்தில் சீத்தலை சாத்தனார் உலக பற்றுகளை கேள்வி எழுப்பும் புத்த காப்பியத்தை இயற்றுகிறார்.",
+  },
 
   // Pallava Period
   "pallava-dynasty-rises": {
@@ -139,6 +165,10 @@ export const worldContextMap: Record<string, { en: string; ta: string }> = {
   "shore-temple-mahabalipuram-built": {
     en: "The Tang Dynasty rules China's golden age. Islam spreads across Arabia. Stone temples rise across Asia — while Pallava architects master the art of carving mountains into shrines.",
     ta: "தாங் வம்சம் சீனாவின் பொற்காலத்தை ஆள்கிறது. இஸ்லாம் அரேபியா முழுவதும் பரவுகிறது. கற்கோயில்கள் ஆசியா முழுவதும் எழுகின்றன — அதே நேரத்தில் பல்லவ கட்டிடக் கலைஞர்கள் மலைகளை ஆலயங்களாக செதுக்கும் கலையில் தேர்ச்சி பெறுகின்றனர்.",
+  },
+  "nayanars-and-alvars-bhakti-movement": {
+    en: "Charlemagne is crowned Holy Roman Emperor. The Abbasid Caliphate rules from Baghdad to Spain. Religions compete for souls across continents — while 75 Tamil poet-saints revolutionize Hindu worship through vernacular devotion.",
+    ta: "சார்லமேன் புனித ரோமானிய பேரரசராக முடிசூட்டப்படுகிறார். அப்பாசிய கலிபாத்து பாக்தாத்திலிருந்து ஸ்பெயின் வரை ஆள்கிறது. மதங்கள் கண்டங்கள் முழுவதும் ஆன்மாக்களுக்காக போட்டியிடுகின்றன — அதே நேரத்தில் 75 தமிழ் கவி-புனிதர்கள் மக்கள் மொழி பக்தி மூலம் இந்து வழிபாட்டை புரட்சிகரமாக்குகின்றனர்.",
   },
   "manigramam-guild-in-thailand": {
     en: "The Abbasid Caliphate rules from Baghdad. Vikings raid European coasts. Trade networks span continents — while Tamil merchant guilds establish permanent bases across Southeast Asia.",
@@ -196,6 +226,7 @@ export const worldContextMap: Record<string, { en: string; ta: string }> = {
  * Era labels for timeline navigation
  */
 export const eraLabels: Record<string, { en: string; ta: string }> = {
+  PREHISTORIC: { en: "Prehistoric · Deep Time", ta: "வரலாற்றுக்கு முற்பட்ட · ஆழ்ந்த காலம்" },
   PRE_SANGAM: { en: "Pre-Sangam · Iron Age", ta: "சங்க காலத்திற்கு முன் · இரும்பு யுகம்" },
   SANGAM: { en: "Sangam Age", ta: "சங்க காலம்" },
   POST_SANGAM: { en: "Post-Sangam", ta: "சங்க காலத்திற்கு பின்" },

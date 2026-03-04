@@ -81,10 +81,23 @@ export function TimelineScene({
       : (["right", "top"] as const);
 
   // Build meta items from key findings
+  // Map confidence levels to human-readable descriptions
+  const confidenceLabels: Record<string, { en: string; ta: string }> = {
+    VERY_HIGH: { en: "Very High", ta: "உறுதியானது" },
+    HIGH: { en: "High", ta: "நம்பகமானது" },
+    MEDIUM: { en: "Moderate", ta: "மிதமானது" },
+    LOW: { en: "Limited", ta: "சிறிதளவு" },
+    CONTESTED: { en: "Debated", ta: "விவாதத்திற்குரியது" },
+  };
+
+  const confidenceValue = entry.date.confidence
+    ? confidenceLabels[entry.date.confidence]?.[locale] || entry.date.confidence
+    : locale === "ta" ? "வரலாற்று" : "Historical";
+
   const meta = [
     {
-      label: locale === "ta" ? "காலம்" : "Dating",
-      value: entry.date.confidence || "Historical",
+      label: locale === "ta" ? "நம்பகத்தன்மை" : "Confidence",
+      value: confidenceValue,
     },
     ...(entry.keyFindings?.slice(0, 1).map((finding) => ({
       label: locale === "ta" ? "முக்கிய கண்டுபிடிப்பு" : "Key Finding",
