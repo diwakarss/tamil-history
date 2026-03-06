@@ -36,6 +36,20 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       description: t("subtitle"),
       type: "website",
       locale: locale === "ta" ? "ta_IN" : "en_US",
+      images: [
+        {
+          url: "/og-image.jpg",
+          width: 1200,
+          height: 630,
+          alt: t("title"),
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("subtitle"),
+      images: ["/og-image.jpg"],
     },
   };
 }
