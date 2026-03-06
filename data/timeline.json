@@ -1,9 +1,9 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "meta": {
-    "version": "2.0.0",
-    "generated": "2026-03-04",
-    "totalStops": 31,
+    "version": "2.1.0",
+    "generated": "2026-03-05",
+    "totalStops": 33,
     "dateRange": {
       "earliest": -385000,
       "latest": 2004
@@ -24,7 +24,7 @@
       "type": "ARCHAEOLOGICAL",
       "title": {
         "en": "Attirampakkam Stone Tools",
-        "ta": "அத்திரம்பாக்கம் கற்கருவிகள்"
+        "ta": "அதிரம்பாக்கம் கற்கருவிகள்"
       },
       "date": {
         "year": -385000,
@@ -39,7 +39,7 @@
       "location": {
         "site": {
           "en": "Attirampakkam",
-          "ta": "அத்திரம்பாக்கம்"
+          "ta": "அதிரம்பாக்கம்"
         },
         "district": {
           "en": "Kanchipuram",
@@ -92,7 +92,7 @@
           "url": "https://en.wikipedia.org/wiki/Attirampakkam",
           "title": {
             "en": "Wikipedia: Attirampakkam",
-            "ta": "விக்கிப்பீடியா: அத்திரம்பாக்கம்"
+            "ta": "விக்கிப்பீடியா: அதிரம்பாக்கம்"
           }
         }
       ],
@@ -106,6 +106,196 @@
     },
     {
       "id": 2,
+      "era": "PREHISTORIC",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Sivagalai Iron Age Settlement",
+        "ta": "சிவகலை இரும்புக்கால குடியிருப்பு"
+      },
+      "date": {
+        "year": -3150,
+        "display": {
+          "en": "~3345-2953 BCE",
+          "ta": "சுமார் கி.மு. 3345-2953"
+        },
+        "rangeEnd": -2953,
+        "confidence": "CONTESTED",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "Would predate global Iron Age by 2000+ years",
+            "ta": "உலகளாவிய இரும்பு யுகத்தை 2000+ ஆண்டுகள் முந்தும்"
+          },
+          "issue": {
+            "en": "Charcoal dated 3345-2953 BCE but rice from same context dated 1155 BCE; iron from disturbed contexts; no peer review; no corroborating urban development",
+            "ta": "கரி கி.மு. 3345-2953 என காலக்கணிப்பு ஆனால் அதே சூழலில் அரிசி கி.மு. 1155; சேதமடைந்த சூழலில் இரும்பு; சக மதிப்பீடு இல்லை; உறுதிப்படுத்தும் நகர வளர்ச்சி இல்லை"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Sivagalai",
+          "ta": "சிவகலை"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "தூத்துக்குடி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Iron Age settlement with 160 urn burials. Charcoal samples yielded dates of 3345-2953 BCE, but rice from the same burial urns dated to only 1155 BCE — a 2000+ year discrepancy that remains unexplained.",
+        "ta": "160 கலச புதைகுழிகளுடன் கூடிய இரும்பு யுக குடியேற்றம். கரி மாதிரிகள் கி.மு. 3345-2953 என காலக்கணிப்பு அளித்தன, ஆனால் அதே புதைகுழி கலசங்களில் இருந்த அரிசி கி.மு. 1155 மட்டுமே — விளக்கப்படாத 2000+ ஆண்டு முரண்பாடு."
+      },
+      "keyFindings": [
+        {
+          "en": "160 urn burials across 24 trenches",
+          "ta": "24 அகழ்வு குழிகளில் 160 கலச புதைகுழிகள்"
+        },
+        {
+          "en": "85+ iron implements (knives, arrows, swords)",
+          "ta": "85+ இரும்பு கருவிகள் (கத்திகள், அம்புகள், வாள்கள்)"
+        },
+        {
+          "en": "Black-and-red ware pottery",
+          "ta": "கருப்பு-சிவப்பு மட்பாண்டங்கள்"
+        },
+        {
+          "en": "Gold pendant fragment",
+          "ta": "தங்க பதக்கத்தின் துண்டு"
+        },
+        {
+          "en": "Human skeletal remains",
+          "ta": "மனித எலும்புக்கூடு எச்சங்கள்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "critical",
+          "url": "https://thewire.in/history/explainer-what-the-most-recent-archaeological-findings-in-tamil-nadus-sivakalai-mean",
+          "title": {
+            "en": "The Wire: Critical perspective on Sivagalai",
+            "ta": "தி வயர்: சிவகலை குறித்த விமர்சன பார்வை"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Sivagalai",
+          "title": {
+            "en": "Wikipedia: Sivagalai",
+            "ta": "விக்கிப்பீடியா: சிவகலை"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "iron_age",
+        "burial",
+        "pre_literary",
+        "ams_dating"
+      ]
+    },
+    {
+      "id": 3,
+      "era": "PREHISTORIC",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Mayiladumparai Iron Working",
+        "ta": "மயிலாடும்பாறை இரும்பு வேலைப்பாடு"
+      },
+      "date": {
+        "year": -2172,
+        "display": {
+          "en": "~2172 BCE",
+          "ta": "சுமார் கி.மு. 2172"
+        },
+        "rangeEnd": -1615,
+        "confidence": "CONTESTED",
+        "contestedClaim": {
+          "exists": true,
+          "claim": {
+            "en": "Earliest iron working in India",
+            "ta": "இந்தியாவின் ஆரம்ப இரும்பு வேலைப்பாடு"
+          },
+          "issue": {
+            "en": "AMS dating from two samples (2172 BCE and 1615 BCE); awaiting broader peer review of contextual evidence",
+            "ta": "இரண்டு மாதிரிகளிலிருந்து AMS காலக்கணிப்பு (கி.மு. 2172 மற்றும் 1615); சூழல் சான்றுகளின் பரந்த சக மதிப்பீட்டை எதிர்பார்க்கிறது"
+          }
+        }
+      },
+      "location": {
+        "site": {
+          "en": "Mayiladumparai",
+          "ta": "மயிலாடும்பாறை"
+        },
+        "district": {
+          "en": "Krishnagiri",
+          "ta": "கிருஷ்ணகிரி"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Claimed earliest iron-working site in India. AMS radiocarbon dating of iron slag samples yielded dates of 2172 BCE and 1615 BCE. If verified, this would predate iron use in the Gangetic plains by centuries.",
+        "ta": "இந்தியாவின் ஆரம்ப இரும்பு வேலைப்பாட்டுத் தளம் என உரிமை கோரப்படுகிறது. இரும்புக் கழிவு மாதிரிகளின் AMS கதிரியக்க கார்பன் காலக்கணிப்பு கி.மு. 2172 மற்றும் 1615 என்ற தேதிகளை வழங்கியது."
+      },
+      "keyFindings": [
+        {
+          "en": "Iron slag with AMS dates of 2172 BCE and 1615 BCE",
+          "ta": "கி.மு. 2172 மற்றும் 1615 AMS தேதிகளுடன் இரும்புக் கழிவு"
+        },
+        {
+          "en": "Excavated by Tamil Nadu State Department of Archaeology",
+          "ta": "தமிழ்நாடு அரசு தொல்பொருள் துறையால் அகழ்வாராய்ச்சி செய்யப்பட்டது"
+        },
+        {
+          "en": "Report validated by 10 national experts",
+          "ta": "10 தேசிய நிபுணர்களால் அறிக்கை சரிபார்க்கப்பட்டது"
+        },
+        {
+          "en": "Contextual evidence requires further scholarly review",
+          "ta": "சூழல் சான்றுகளுக்கு மேலும் அறிஞர் மதிப்பாய்வு தேவை"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "primary",
+          "url": "https://www.researchgate.net/publication/379573519_Investigating_early_iron_finds_from_Mayiladumparai_Tamil_Nadu",
+          "title": {
+            "en": "ResearchGate: Investigating early iron finds from Mayiladumparai",
+            "ta": "ரிசர்ச்கேட்: மயிலாடும்பாறையின் ஆரம்ப இரும்பு கண்டுபிடிப்புகளை ஆராய்தல்"
+          }
+        },
+        {
+          "type": "critical",
+          "url": "https://theprint.in/opinion/tamil-nadus-iron-age-report-is-a-turning-point-in-indian-archaeology-it-needs-more-research/2462784/",
+          "title": {
+            "en": "The Print: Tamil Nadu's Iron Age report needs more research",
+            "ta": "தி பிரிண்ட்: தமிழ்நாட்டின் இரும்பு யுக அறிக்கைக்கு மேலும் ஆராய்ச்சி தேவை"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "iron_age",
+        "contested",
+        "ams_dating",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": 4,
       "era": "PREHISTORIC",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -180,104 +370,7 @@
       ]
     },
     {
-      "id": 3,
-      "era": "PRE_SANGAM",
-      "type": "ARCHAEOLOGICAL",
-      "title": {
-        "en": "Sivagalai Iron Age Settlement",
-        "ta": "சிவகலை இரும்பு யுக குடியேற்றம்"
-      },
-      "date": {
-        "year": -1155,
-        "display": {
-          "en": "~1155 BCE",
-          "ta": "சுமார் கி.மு. 1155"
-        },
-        "rangeEnd": null,
-        "confidence": "HIGH",
-        "contestedClaim": {
-          "exists": true,
-          "claim": {
-            "en": "3345-2953 BCE",
-            "ta": "கி.மு. 3345-2953"
-          },
-          "issue": {
-            "en": "2000+ year dating gap between charcoal and rice samples",
-            "ta": "கரி மற்றும் அரிசி மாதிரிகளுக்கு இடையே 2000+ ஆண்டு காலவரிசை இடைவெளி"
-          }
-        }
-      },
-      "location": {
-        "site": {
-          "en": "Sivagalai",
-          "ta": "சிவகலை"
-        },
-        "district": {
-          "en": "Thoothukudi",
-          "ta": "தூத்துக்குடி"
-        },
-        "state": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "Iron Age settlement with 160 urn burials demonstrating advanced civilization. Rice dated to 1155 BCE via AMS radiocarbon.",
-        "ta": "முன்னேறிய நாகரிகத்தை வெளிப்படுத்தும் 160 கலச புதைகுழிகளுடன் கூடிய இரும்பு யுக குடியேற்றம். AMS கதிரியக்க கார்பன் முறையில் அரிசி கி.மு. 1155 என காலமிடப்பட்டது."
-      },
-      "keyFindings": [
-        {
-          "en": "160 urn burials across 24 trenches",
-          "ta": "24 அகழ்வு குழிகளில் 160 கலச புதைகுழிகள்"
-        },
-        {
-          "en": "85+ iron implements (knives, arrows, swords)",
-          "ta": "85+ இரும்பு கருவிகள் (கத்திகள், அம்புகள், வாள்கள்)"
-        },
-        {
-          "en": "Black-and-red ware pottery",
-          "ta": "கருப்பு-சிவப்பு மட்பாண்டங்கள்"
-        },
-        {
-          "en": "Gold pendant fragment",
-          "ta": "தங்க பதக்கத்தின் துண்டு"
-        },
-        {
-          "en": "Human skeletal remains",
-          "ta": "மனித எலும்புக்கூடு எச்சங்கள்"
-        }
-      ],
-      "literaryPairing": null,
-      "quote": null,
-      "sources": [
-        {
-          "type": "critical",
-          "url": "https://thewire.in/history/explainer-what-the-most-recent-archaeological-findings-in-tamil-nadus-sivakalai-mean",
-          "title": {
-            "en": "The Wire: Critical perspective on Sivagalai",
-            "ta": "தி வயர்: சிவகலை குறித்த விமர்சன பார்வை"
-          }
-        },
-        {
-          "type": "reference",
-          "url": "https://en.wikipedia.org/wiki/Sivagalai",
-          "title": {
-            "en": "Wikipedia: Sivagalai",
-            "ta": "விக்கிப்பீடியா: சிவகலை"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "iron_age",
-        "burial",
-        "pre_literary",
-        "ams_dating"
-      ]
-    },
-    {
-      "id": 4,
+      "id": 5,
       "era": "PRE_SANGAM",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -408,7 +501,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "era": "PRE_SANGAM",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -552,7 +645,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "era": "PRE_SANGAM",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -672,12 +765,192 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Alagankulam Roman Trade Port",
+        "ta": "அழகன்குளம் ரோமானிய வணிகத் துறைமுகம்"
+      },
+      "date": {
+        "year": -500,
+        "display": {
+          "en": "500 BCE - 400 CE",
+          "ta": "500 BCE - 400 CE"
+        },
+        "rangeEnd": 400,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Alagankulam",
+          "ta": "Alagankulam"
+        },
+        "district": {
+          "en": "Ramanathapuram",
+          "ta": "ராமநாதபுரம்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Major Pandya trading center at the Vaigai delta. Roman coins including Valentine II (380 CE), amphorae, and shell bangle manufacturing since 500 BCE.",
+        "ta": "வைகை டெல்டாவில் முக்கிய பாண்டிய வணிக மையம். வாலண்டைன் II (கி.பி. 380) உட்பட ரோமானிய நாணயங்கள், ஆம்போரா மற்றும் கி.மு. 500 முதல் சங்கு வளையல் உற்பத்தி."
+      },
+      "keyFindings": [
+        {
+          "en": "Rouletted ware with ship figure",
+          "ta": "கப்பல் உருவத்துடன் ரூலெட்டட் பாத்திரம்"
+        },
+        {
+          "en": "Roman amphorae and Arretine ware",
+          "ta": "ரோமானிய ஆம்போரா மற்றும் அரெட்டைன் பாத்திரங்கள்"
+        },
+        {
+          "en": "Byzantine coins of Valentine II (380 CE)",
+          "ta": "வாலண்டைன் II இன் பைசாந்திய நாணயங்கள் (கி.பி. 380)"
+        },
+        {
+          "en": "Northern African red ware from Tunisia",
+          "ta": "துனிசியாவிலிருந்து வட ஆப்பிரிக்க சிவப்பு பாத்திரம்"
+        },
+        {
+          "en": "Shell bangle manufacturing (since 500 BCE)",
+          "ta": "சங்கு வளையல் உற்பத்தி (கி.மு. 500 முதல்)"
+        },
+        {
+          "en": "Iron smelting workshop",
+          "ta": "இரும்பு உருக்கு பட்டறை"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/alagankulam",
+          "title": {
+            "en": "TN Archaeology: Alagankulam",
+            "ta": "TN Archaeology: Alagankulam"
+          }
+        },
+        {
+          "type": "academic",
+          "url": "https://www.nature.com/articles/s40494-020-00402-2",
+          "title": {
+            "en": "npj Heritage Science: Pottery production",
+            "ta": "npj Heritage Science: Pottery production"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "indo_roman_trade",
+        "pandya",
+        "port",
+        "shell_bangles",
+        "byzantine"
+      ]
+    },
+    {
+      "id": 9,
+      "era": "PRE_SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Porunthal Megalithic Burial Site",
+        "ta": "பொருந்தல் பெருங்கற்கால புதைகுழித் தளம்"
+      },
+      "date": {
+        "year": -490,
+        "display": {
+          "en": "~490-450 BCE",
+          "ta": "சுமார் கி.மு. 490-450"
+        },
+        "rangeEnd": -450,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Porunthal",
+          "ta": "பொருந்தல்"
+        },
+        "district": {
+          "en": "Dindigul",
+          "ta": "திண்டுக்கல்"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "First scientifically dated Tamil-Brahmi inscription site. Megalithic cist burials with paddy grains dated to 490-450 BCE via AMS radiocarbon. The name 'Vaira' inscribed in Brahmi on a burial jar provides crucial evidence for early Tamil literacy.",
+        "ta": "முதல் அறிவியல் பூர்வமாக காலக்கணிப்பு செய்யப்பட்ட தமிழ்-பிராமி கல்வெட்டுத் தளம். AMS கதிரியக்க கார்பன் முறையில் கி.மு. 490-450 என காலக்கணிப்பு செய்யப்பட்ட நெல் மணிகளுடன் பெருங்கற்கால கல்லறை புதைகுழிகள்."
+      },
+      "keyFindings": [
+        {
+          "en": "Brahmi inscription 'Vaira' on burial jar - first scientifically dated",
+          "ta": "புதைகுழி ஜாடியில் பிராமி கல்வெட்டு 'வைர' - முதல் அறிவியல் காலக்கணிப்பு"
+        },
+        {
+          "en": "Paddy grains AMS dated to 490 BCE and 450 BCE",
+          "ta": "நெல் மணிகள் AMS மூலம் கி.மு. 490 மற்றும் 450 என காலக்கணிப்பு"
+        },
+        {
+          "en": "7,500+ beads (steatite, carnelian, quartz, agate)",
+          "ta": "7,500+ மணிகள் (ஸ்டீடைட், கார்னீலியன், குவார்ட்ஸ், அகேட்)"
+        },
+        {
+          "en": "Iron swords, arrowheads, terracotta figurines",
+          "ta": "இரும்பு வாள்கள், அம்புமுனைகள், டெரகோட்டா சிலைகள்"
+        },
+        {
+          "en": "Excavated by K. Rajan (Tamil University)",
+          "ta": "கே. ராஜன் (தமிழ்ப் பல்கலைக்கழகம்) அகழ்வாராய்ச்சி செய்தார்"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "primary",
+          "url": "https://www.radiocarbon.eu/carbon-dating-blog/porunthal-excavation/",
+          "title": {
+            "en": "Radiocarbon.eu: How Porunthal's Rice Grains Provided Insight to Indian Writing",
+            "ta": "Radiocarbon.eu: பொருந்தலின் அரிசி மணிகள் இந்திய எழுத்துக்கு தரும் நுண்ணறிவு"
+          }
+        },
+        {
+          "type": "academic",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352409X16308458",
+          "title": {
+            "en": "ScienceDirect: Phytolith records from Early Historic megalithic burial at Porunthal",
+            "ta": "ScienceDirect: பொருந்தலின் ஆரம்ப வரலாற்று பெருங்கற்கால புதைகுழியிலிருந்து பைட்டோலித் பதிவுகள்"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "megalithic",
+        "tamil_brahmi",
+        "burial",
+        "ams_dating",
+        "literacy"
+      ]
+    },
+    {
+      "id": 10,
       "era": "SANGAM",
       "type": "LITERARY",
       "title": {
-        "en": "Tamil-Brahmi Script Emergence",
-        "ta": "தமிழ்-பிராமி எழுத்து தோற்றம்"
+        "en": "Tamil-Brahmi Established Literacy",
+        "ta": "தமிழ்-பிராமி நிறுவப்பட்ட எழுத்தறிவு"
       },
       "date": {
         "year": -300,
@@ -781,7 +1054,261 @@
       ]
     },
     {
-      "id": 8,
+      "id": 11,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Poompuhar Chola Port City",
+        "ta": "பூம்புகார் சோழ துறைமுக நகரம்"
+      },
+      "date": {
+        "year": -300,
+        "display": {
+          "en": "300 BCE - 300 CE",
+          "ta": "300 BCE - 300 CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Poompuhar (Kaveripattinam)",
+          "ta": "Poompuhar (Kaveripattinam)"
+        },
+        "district": {
+          "en": "Mayiladuthurai",
+          "ta": "Mayiladuthurai"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "The lost Atlantis of Tamil civilization — a Chola port city described in the Silappatikaram epic where 'ships creaked with wealth from all seven continents,' now lying 5 km offshore at 23 meters depth, its harbor and brick structures confirmed by underwater archaeology.",
+        "ta": "தமிழ் நாகரிகத்தின் இழந்த அட்லாண்டிஸ் - சிலப்பதிகார காவியத்தில் விவரிக்கப்பட்ட சோழ துறைமுக நகரம், 'ஏழு கண்டங்களின் செல்வத்தால் கப்பல்கள் கரகரத்தன', இப்போது கடற்கரையிலிருந்து 5 கி.மீ தொலைவில் 23 மீட்டர் ஆழத்தில், நீர்மூழ்கி தொல்லியல் மூலம் துறைமுகம் மற்றும் செங்கல் கட்டமைப்புகள் உறுதிப்படுத்தப்பட்டன."
+      },
+      "keyFindings": [
+        {
+          "en": "Horseshoe structure at 23m depth (5km offshore)",
+          "ta": "23 மீ ஆழத்தில் குதிரைக்கால் அமைப்பு (கடற்கரையிலிருந்து 5 கி.மீ)"
+        },
+        {
+          "en": "Submerged brick formations and wharves",
+          "ta": "மூழ்கிய செங்கல் அமைப்புகள் மற்றும் படகுத்துறைகள்"
+        },
+        {
+          "en": "Terracotta ring wells",
+          "ta": "மண்பாண்ட வளைய கிணறுகள்"
+        },
+        {
+          "en": "Shipwreck near Vanagiri (19.5m depth)",
+          "ta": "வனகிரி அருகே கப்பல் சிதைவு (19.5 மீ ஆழம்)"
+        },
+        {
+          "en": "Ceramics dated to 2nd c. BCE",
+          "ta": "கி.மு. 2ஆம் நூற்றாண்டு என காலம் நிர்ணயிக்கப்பட்ட மட்பாண்டங்கள்"
+        },
+        {
+          "en": "Buddha Vihara and Jain temples",
+          "ta": "புத்த விகாரம் மற்றும் சமண கோயில்கள்"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Silappatikaram",
+          "ta": "சிலப்பதிகாரம்"
+        },
+        "relevance": {
+          "en": "Detailed descriptions of harbor, trade, city divisions",
+          "ta": "Detailed descriptions of harbor, trade, city divisions"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Ships creaked in with wealth from all seven continents.",
+          "ta": "நானிலம் தாங்கிய நலங்கெழு செல்வமொடு கடலோடு புணர்ந்த பண்டைச் செல்வம்"
+        },
+        "source": {
+          "en": "Silappatikaram, Book 1",
+          "ta": "சிலப்பதிகாரம், காண்டம் 1"
+        },
+        "author": {
+          "en": "Ilango Adigal",
+          "ta": "இளங்கோ அடிகள்"
+        },
+        "translator": null,
+        "context": {
+          "en": "Describing Puhar's international maritime trade",
+          "ta": "புகாரின் சர்வதேச கடல் வர்த்தகத்தை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.researchgate.net/publication/27666914_Marine_archaeological_explorations_in_the_Kaveripoompattinam_regions_Fresh_light_on_the_structural_remains",
+          "title": {
+            "en": "ResearchGate: Marine archaeological explorations",
+            "ta": "ResearchGate: Marine archaeological explorations"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://thefederal.com/states/south/tamil-nadu/asi-revives-underwater-archaeology-wing-tn-can-now-unearth-poompuhar",
+          "title": {
+            "en": "The Federal: ASI underwater archaeology",
+            "ta": "The Federal: ASI underwater archaeology"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Poombuhar",
+          "title": {
+            "en": "Wikipedia: Poombuhar",
+            "ta": "Wikipedia: Poombuhar"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "underwater_archaeology",
+        "chola",
+        "port",
+        "silappatikaram",
+        "submerged_city"
+      ]
+    },
+    {
+      "id": 12,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Korkai Pearl Fishing Capital",
+        "ta": "கொற்கை முத்து சேகரிப்பு தலைநகரம்"
+      },
+      "date": {
+        "year": -300,
+        "display": {
+          "en": "300 BCE - 300 CE",
+          "ta": "300 BCE - 300 CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Korkai",
+          "ta": "Korkai"
+        },
+        "district": {
+          "en": "Thoothukudi",
+          "ta": "Thoothukudi"
+        },
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Ancient capital of the Pandyas and greatest pearl fishing center in the ancient world — where divers descended over 100 feet with stone weights, and pearls became Rome's most expensive Indian import.",
+        "ta": "பாண்டியர்களின் பண்டைய தலைநகரம் மற்றும் பண்டைய உலகின் மிகப்பெரிய முத்து சேகரிப்பு மையம் - முத்துக்குளிப்பாளர்கள் கல் எடைகளுடன் 100 அடிக்கும் மேல் ஆழத்தில் மூழ்கினர், முத்துக்கள் ரோமின் மிக விலையுயர்ந்த இந்திய இறக்குமதியாக மாறின."
+      },
+      "keyFindings": [
+        {
+          "en": "Capital of Early Pandyan Kingdom",
+          "ta": "ஆரம்பகால பாண்டிய அரசின் தலைநகரம்"
+        },
+        {
+          "en": "Tamil-Brahmi inscribed pottery (300-200 BCE)",
+          "ta": "தமிழ்-பிராமி பொறிக்கப்பட்ட மட்பாண்டம் (கி.மு. 300-200)"
+        },
+        {
+          "en": "Pearl oyster cutting factories",
+          "ta": "முத்துச் சிப்பி வெட்டும் தொழிற்சாலைகள்"
+        },
+        {
+          "en": "Conch shell workshops",
+          "ta": "சங்கு பட்டறைகள்"
+        },
+        {
+          "en": "Named 'Colchi' in Periplus, 'Kolkhai' in Ptolemy",
+          "ta": "பெரிப்ளஸில் 'கொல்சி', தாலமியில் 'கொல்கை' என்று பெயரிடப்பட்டது"
+        },
+        {
+          "en": "Sea receded ~6 km in 2000 years",
+          "ta": "2000 ஆண்டுகளில் கடல் ~6 கி.மீ பின்வாங்கியது"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Akananuru / Periplus",
+          "ta": "Akananuru / Periplus"
+        },
+        "relevance": {
+          "en": "Both Tamil and Greek sources describe Korkai's pearl industry",
+          "ta": "Both Tamil and Greek sources describe Korkai's pearl industry"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "Cool, sparkling pearls brought by spreading waves to shores near Korkai city, belonging to king Vazhuthi with fine chariots... the waterlily flowers opened by bees in the curved backwaters.",
+          "ta": "இவர் திரை தந்த ஈர்ங்கதிர் முத்தம் கவர் நடைப் புரவிக் கால் வடுத் தபுக்கும் நற்தேர் வழுதி கொற்கை முன் துறை"
+        },
+        "source": {
+          "en": "Akananuru 130",
+          "ta": "அகநானூறு 130"
+        },
+        "author": {
+          "en": "Venkannanār",
+          "ta": "வெண்கண்ணனார்"
+        },
+        "translator": "Vaidehi",
+        "context": {
+          "en": "Describes Pandyan pearl coast",
+          "ta": "பாண்டிய முத்துக் கரையை விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.researchgate.net/publication/346084639_KORKAI_-AN_EMPORIUM_OF_PEARL_TRADE_OF_ANCIENT_TAMIL_COUNTRY_1",
+          "title": {
+            "en": "ResearchGate: Korkai Pearl Trade",
+            "ta": "ResearchGate: Korkai Pearl Trade"
+          }
+        },
+        {
+          "type": "official",
+          "url": "https://www.tnarch.gov.in/korkai",
+          "title": {
+            "en": "TN Archaeology: Korkai",
+            "ta": "TN Archaeology: Korkai"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Korkai",
+          "title": {
+            "en": "Wikipedia: Korkai",
+            "ta": "Wikipedia: Korkai"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "pearl_fishing",
+        "pandya",
+        "periplus",
+        "ptolemy",
+        "port"
+      ]
+    },
+    {
+      "id": 13,
       "era": "SANGAM",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -897,7 +1424,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 14,
       "era": "SANGAM",
       "type": "ARCHAEOLOGICAL",
       "title": {
@@ -1025,353 +1552,7 @@
       ]
     },
     {
-      "id": 10,
-      "era": "SANGAM",
-      "type": "ARCHAEOLOGICAL",
-      "title": {
-        "en": "Poompuhar Chola Port City",
-        "ta": "பூம்புகார் சோழ துறைமுக நகரம்"
-      },
-      "date": {
-        "year": -300,
-        "display": {
-          "en": "300 BCE - 300 CE",
-          "ta": "300 BCE - 300 CE"
-        },
-        "rangeEnd": 300,
-        "confidence": "HIGH",
-        "contestedClaim": null
-      },
-      "location": {
-        "site": {
-          "en": "Poompuhar (Kaveripattinam)",
-          "ta": "Poompuhar (Kaveripattinam)"
-        },
-        "district": {
-          "en": "Mayiladuthurai",
-          "ta": "Mayiladuthurai"
-        },
-        "state": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "The lost Atlantis of Tamil civilization — a Chola port city described in the Silappatikaram epic where 'ships creaked with wealth from all seven continents,' now lying 5 km offshore at 23 meters depth, its harbor and brick structures confirmed by underwater archaeology.",
-        "ta": "தமிழ் நாகரிகத்தின் இழந்த அட்லாண்டிஸ் - சிலப்பதிகார காவியத்தில் விவரிக்கப்பட்ட சோழ துறைமுக நகரம், 'ஏழு கண்டங்களின் செல்வத்தால் கப்பல்கள் கரகரத்தன', இப்போது கடற்கரையிலிருந்து 5 கி.மீ தொலைவில் 23 மீட்டர் ஆழத்தில், நீர்மூழ்கி தொல்லியல் மூலம் துறைமுகம் மற்றும் செங்கல் கட்டமைப்புகள் உறுதிப்படுத்தப்பட்டன."
-      },
-      "keyFindings": [
-        {
-          "en": "Horseshoe structure at 23m depth (5km offshore)",
-          "ta": "23 மீ ஆழத்தில் குதிரைக்கால் அமைப்பு (கடற்கரையிலிருந்து 5 கி.மீ)"
-        },
-        {
-          "en": "Submerged brick formations and wharves",
-          "ta": "மூழ்கிய செங்கல் அமைப்புகள் மற்றும் படகுத்துறைகள்"
-        },
-        {
-          "en": "Terracotta ring wells",
-          "ta": "மண்பாண்ட வளைய கிணறுகள்"
-        },
-        {
-          "en": "Shipwreck near Vanagiri (19.5m depth)",
-          "ta": "வனகிரி அருகே கப்பல் சிதைவு (19.5 மீ ஆழம்)"
-        },
-        {
-          "en": "Ceramics dated to 2nd c. BCE",
-          "ta": "கி.மு. 2ஆம் நூற்றாண்டு என காலம் நிர்ணயிக்கப்பட்ட மட்பாண்டங்கள்"
-        },
-        {
-          "en": "Buddha Vihara and Jain temples",
-          "ta": "புத்த விகாரம் மற்றும் சமண கோயில்கள்"
-        }
-      ],
-      "literaryPairing": {
-        "work": {
-          "en": "Silappatikaram",
-          "ta": "சிலப்பதிகாரம்"
-        },
-        "relevance": {
-          "en": "Detailed descriptions of harbor, trade, city divisions",
-          "ta": "Detailed descriptions of harbor, trade, city divisions"
-        }
-      },
-      "quote": {
-        "text": {
-          "en": "Ships creaked in with wealth from all seven continents.",
-          "ta": "நானிலம் தாங்கிய நலங்கெழு செல்வமொடு கடலோடு புணர்ந்த பண்டைச் செல்வம்"
-        },
-        "source": {
-          "en": "Silappatikaram, Book 1",
-          "ta": "சிலப்பதிகாரம், காண்டம் 1"
-        },
-        "author": {
-          "en": "Ilango Adigal",
-          "ta": "இளங்கோ அடிகள்"
-        },
-        "translator": null,
-        "context": {
-          "en": "Describing Puhar's international maritime trade",
-          "ta": "புகாரின் சர்வதேச கடல் வர்த்தகத்தை விவரிக்கிறது"
-        }
-      },
-      "sources": [
-        {
-          "type": "academic",
-          "url": "https://www.researchgate.net/publication/27666914_Marine_archaeological_explorations_in_the_Kaveripoompattinam_regions_Fresh_light_on_the_structural_remains",
-          "title": {
-            "en": "ResearchGate: Marine archaeological explorations",
-            "ta": "ResearchGate: Marine archaeological explorations"
-          }
-        },
-        {
-          "type": "news",
-          "url": "https://thefederal.com/states/south/tamil-nadu/asi-revives-underwater-archaeology-wing-tn-can-now-unearth-poompuhar",
-          "title": {
-            "en": "The Federal: ASI underwater archaeology",
-            "ta": "The Federal: ASI underwater archaeology"
-          }
-        },
-        {
-          "type": "reference",
-          "url": "https://en.wikipedia.org/wiki/Poombuhar",
-          "title": {
-            "en": "Wikipedia: Poombuhar",
-            "ta": "Wikipedia: Poombuhar"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "underwater_archaeology",
-        "chola",
-        "port",
-        "silappatikaram",
-        "submerged_city"
-      ]
-    },
-    {
-      "id": 11,
-      "era": "SANGAM",
-      "type": "ARCHAEOLOGICAL",
-      "title": {
-        "en": "Korkai Pearl Fishing Capital",
-        "ta": "கொற்கை முத்து சேகரிப்பு தலைநகரம்"
-      },
-      "date": {
-        "year": -300,
-        "display": {
-          "en": "300 BCE - 300 CE",
-          "ta": "300 BCE - 300 CE"
-        },
-        "rangeEnd": 300,
-        "confidence": "HIGH",
-        "contestedClaim": null
-      },
-      "location": {
-        "site": {
-          "en": "Korkai",
-          "ta": "Korkai"
-        },
-        "district": {
-          "en": "Thoothukudi",
-          "ta": "Thoothukudi"
-        },
-        "state": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "Ancient capital of the Pandyas and greatest pearl fishing center in the ancient world — where divers descended over 100 feet with stone weights, and pearls became Rome's most expensive Indian import.",
-        "ta": "பாண்டியர்களின் பண்டைய தலைநகரம் மற்றும் பண்டைய உலகின் மிகப்பெரிய முத்து சேகரிப்பு மையம் - முத்துக்குளிப்பாளர்கள் கல் எடைகளுடன் 100 அடிக்கும் மேல் ஆழத்தில் மூழ்கினர், முத்துக்கள் ரோமின் மிக விலையுயர்ந்த இந்திய இறக்குமதியாக மாறின."
-      },
-      "keyFindings": [
-        {
-          "en": "Capital of Early Pandyan Kingdom",
-          "ta": "ஆரம்பகால பாண்டிய அரசின் தலைநகரம்"
-        },
-        {
-          "en": "Tamil-Brahmi inscribed pottery (300-200 BCE)",
-          "ta": "தமிழ்-பிராமி பொறிக்கப்பட்ட மட்பாண்டம் (கி.மு. 300-200)"
-        },
-        {
-          "en": "Pearl oyster cutting factories",
-          "ta": "முத்துச் சிப்பி வெட்டும் தொழிற்சாலைகள்"
-        },
-        {
-          "en": "Conch shell workshops",
-          "ta": "சங்கு பட்டறைகள்"
-        },
-        {
-          "en": "Named 'Colchi' in Periplus, 'Kolkhai' in Ptolemy",
-          "ta": "பெரிப்ளஸில் 'கொல்சி', தாலமியில் 'கொல்கை' என்று பெயரிடப்பட்டது"
-        },
-        {
-          "en": "Sea receded ~6 km in 2000 years",
-          "ta": "2000 ஆண்டுகளில் கடல் ~6 கி.மீ பின்வாங்கியது"
-        }
-      ],
-      "literaryPairing": {
-        "work": {
-          "en": "Akananuru / Periplus",
-          "ta": "Akananuru / Periplus"
-        },
-        "relevance": {
-          "en": "Both Tamil and Greek sources describe Korkai's pearl industry",
-          "ta": "Both Tamil and Greek sources describe Korkai's pearl industry"
-        }
-      },
-      "quote": {
-        "text": {
-          "en": "Cool, sparkling pearls brought by spreading waves to shores near Korkai city, belonging to king Vazhuthi with fine chariots... the waterlily flowers opened by bees in the curved backwaters.",
-          "ta": "இவர் திரை தந்த ஈர்ங்கதிர் முத்தம் கவர் நடைப் புரவிக் கால் வடுத் தபுக்கும் நற்தேர் வழுதி கொற்கை முன் துறை"
-        },
-        "source": {
-          "en": "Akananuru 130",
-          "ta": "அகநானூறு 130"
-        },
-        "author": {
-          "en": "Venkannanār",
-          "ta": "வெண்கண்ணனார்"
-        },
-        "translator": "Vaidehi",
-        "context": {
-          "en": "Describes Pandyan pearl coast",
-          "ta": "பாண்டிய முத்துக் கரையை விவரிக்கிறது"
-        }
-      },
-      "sources": [
-        {
-          "type": "academic",
-          "url": "https://www.researchgate.net/publication/346084639_KORKAI_-AN_EMPORIUM_OF_PEARL_TRADE_OF_ANCIENT_TAMIL_COUNTRY_1",
-          "title": {
-            "en": "ResearchGate: Korkai Pearl Trade",
-            "ta": "ResearchGate: Korkai Pearl Trade"
-          }
-        },
-        {
-          "type": "official",
-          "url": "https://www.tnarch.gov.in/korkai",
-          "title": {
-            "en": "TN Archaeology: Korkai",
-            "ta": "TN Archaeology: Korkai"
-          }
-        },
-        {
-          "type": "reference",
-          "url": "https://en.wikipedia.org/wiki/Korkai",
-          "title": {
-            "en": "Wikipedia: Korkai",
-            "ta": "Wikipedia: Korkai"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "pearl_fishing",
-        "pandya",
-        "periplus",
-        "ptolemy",
-        "port"
-      ]
-    },
-    {
-      "id": 12,
-      "era": "SANGAM",
-      "type": "ARCHAEOLOGICAL",
-      "title": {
-        "en": "Alagankulam Roman Trade Port",
-        "ta": "அழகன்குளம் ரோமானிய வணிகத் துறைமுகம்"
-      },
-      "date": {
-        "year": -500,
-        "display": {
-          "en": "500 BCE - 400 CE",
-          "ta": "500 BCE - 400 CE"
-        },
-        "rangeEnd": 400,
-        "confidence": "HIGH",
-        "contestedClaim": null
-      },
-      "location": {
-        "site": {
-          "en": "Alagankulam",
-          "ta": "Alagankulam"
-        },
-        "district": {
-          "en": "Ramanathapuram",
-          "ta": "ராமநாதபுரம்"
-        },
-        "state": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "Major Pandya trading center at the Vaigai delta. Roman coins including Valentine II (380 CE), amphorae, and shell bangle manufacturing since 500 BCE.",
-        "ta": "வைகை டெல்டாவில் முக்கிய பாண்டிய வணிக மையம். வாலண்டைன் II (கி.பி. 380) உட்பட ரோமானிய நாணயங்கள், ஆம்போரா மற்றும் கி.மு. 500 முதல் சங்கு வளையல் உற்பத்தி."
-      },
-      "keyFindings": [
-        {
-          "en": "Rouletted ware with ship figure",
-          "ta": "கப்பல் உருவத்துடன் ரூலெட்டட் பாத்திரம்"
-        },
-        {
-          "en": "Roman amphorae and Arretine ware",
-          "ta": "ரோமானிய ஆம்போரா மற்றும் அரெட்டைன் பாத்திரங்கள்"
-        },
-        {
-          "en": "Byzantine coins of Valentine II (380 CE)",
-          "ta": "வாலண்டைன் II இன் பைசாந்திய நாணயங்கள் (கி.பி. 380)"
-        },
-        {
-          "en": "Northern African red ware from Tunisia",
-          "ta": "துனிசியாவிலிருந்து வட ஆப்பிரிக்க சிவப்பு பாத்திரம்"
-        },
-        {
-          "en": "Shell bangle manufacturing (since 500 BCE)",
-          "ta": "சங்கு வளையல் உற்பத்தி (கி.மு. 500 முதல்)"
-        },
-        {
-          "en": "Iron smelting workshop",
-          "ta": "இரும்பு உருக்கு பட்டறை"
-        }
-      ],
-      "literaryPairing": null,
-      "quote": null,
-      "sources": [
-        {
-          "type": "official",
-          "url": "https://www.tnarch.gov.in/alagankulam",
-          "title": {
-            "en": "TN Archaeology: Alagankulam",
-            "ta": "TN Archaeology: Alagankulam"
-          }
-        },
-        {
-          "type": "academic",
-          "url": "https://www.nature.com/articles/s40494-020-00402-2",
-          "title": {
-            "en": "npj Heritage Science: Pottery production",
-            "ta": "npj Heritage Science: Pottery production"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "indo_roman_trade",
-        "pandya",
-        "port",
-        "shell_bangles",
-        "byzantine"
-      ]
-    },
-    {
-      "id": 13,
+      "id": 15,
       "era": "SANGAM",
       "type": "LITERARY",
       "title": {
@@ -1483,95 +1664,7 @@
       ]
     },
     {
-      "id": 14,
-      "era": "SANGAM",
-      "type": "ARCHAEOLOGICAL",
-      "title": {
-        "en": "Tamil Merchants in Egyptian Valley of Kings",
-        "ta": "எகிப்திய அரசர்கள் பள்ளத்தாக்கில் தமிழ் வணிகர்கள்"
-      },
-      "date": {
-        "year": 100,
-        "display": {
-          "en": "1st - 3rd c. CE",
-          "ta": "1st - 3rd c. CE"
-        },
-        "rangeEnd": 300,
-        "confidence": "HIGH",
-        "contestedClaim": null
-      },
-      "location": {
-        "site": {
-          "en": "Valley of the Kings",
-          "ta": "Valley of the Kings"
-        },
-        "district": {
-          "en": "Theban Necropolis",
-          "ta": "Theban Necropolis"
-        },
-        "state": {
-          "en": "Egypt",
-          "ta": "Egypt"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "~30 Tamil-Brahmi inscriptions in the Theban necropolis, including merchant 'Cikai Korran' named 8 times across 5 tombs. Evidence that Tamil traders penetrated far inland Egypt, not just coastal ports.",
-        "ta": "தீபன் கல்லறை வளாகத்தில் ~30 தமிழ்-பிராமி கல்வெட்டுகள், 'சிகை கொற்றன்' வணிகர் 5 கல்லறைகளில் 8 முறை பெயரிடப்பட்டுள்ளார். தமிழ் வணிகர்கள் கடலோர துறைமுகங்களை மட்டுமல்ல, எகிப்தின் உள்நாட்டிற்கும் ஊடுருவினர் என்பதற்கான சான்று."
-      },
-      "keyFindings": [
-        {
-          "en": "~30 inscriptions across 6 tombs",
-          "ta": "6 கல்லறைகளில் ~30 கல்வெட்டுகள்"
-        },
-        {
-          "en": "~20 in Tamil-Brahmi script",
-          "ta": "~20 தமிழ்-பிராமி எழுத்தில்"
-        },
-        {
-          "en": "Merchant 'Cikai Korran' named 8 times",
-          "ta": "'சிகை கொற்றன்' வணிகர் 8 முறை பெயரிடப்பட்டார்"
-        },
-        {
-          "en": "'Korrapuman' on pottery at Berenike",
-          "ta": "பெரெனிகேயில் மட்பாண்டத்தில் 'கொற்றபுமான்'"
-        },
-        {
-          "en": "Sanskrit inscriptions mention Kshaharata envoys",
-          "ta": "சமஸ்கிருத கல்வெட்டுகள் க்ஷஹரத தூதர்களைக் குறிப்பிடுகின்றன"
-        }
-      ],
-      "literaryPairing": null,
-      "quote": null,
-      "sources": [
-        {
-          "type": "news",
-          "url": "https://www.tamilguardian.com/content/2000-year-old-tamil-brahmi-inscriptions-discovered-egypts-valley-kings",
-          "title": {
-            "en": "Tamil Guardian: Valley of Kings inscriptions",
-            "ta": "Tamil Guardian: Valley of Kings inscriptions"
-          }
-        },
-        {
-          "type": "news",
-          "url": "https://www.deccanherald.com/india/thirty-tamili-and-prakrit-scripts-reveal-2000-year-old-india-egypt-trade-3895134",
-          "title": {
-            "en": "Deccan Herald: India-Egypt trade",
-            "ta": "Deccan Herald: India-Egypt trade"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "tamil_brahmi",
-        "egypt",
-        "foreign_inscription",
-        "merchants",
-        "indo_roman_trade"
-      ]
-    },
-    {
-      "id": 15,
+      "id": 16,
       "era": "POST_SANGAM",
       "type": "LITERARY",
       "title": {
@@ -1691,7 +1784,203 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
+      "era": "SANGAM",
+      "type": "ARCHAEOLOGICAL",
+      "title": {
+        "en": "Tamil Merchants in Egyptian Valley of Kings",
+        "ta": "எகிப்திய அரசர்கள் பள்ளத்தாக்கில் தமிழ் வணிகர்கள்"
+      },
+      "date": {
+        "year": 100,
+        "display": {
+          "en": "1st - 3rd c. CE",
+          "ta": "1st - 3rd c. CE"
+        },
+        "rangeEnd": 300,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Valley of the Kings",
+          "ta": "Valley of the Kings"
+        },
+        "district": {
+          "en": "Theban Necropolis",
+          "ta": "Theban Necropolis"
+        },
+        "state": {
+          "en": "Egypt",
+          "ta": "Egypt"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "~30 Tamil-Brahmi inscriptions in the Theban necropolis, including merchant 'Cikai Korran' named 8 times across 5 tombs. Evidence that Tamil traders penetrated far inland Egypt, not just coastal ports.",
+        "ta": "தீபன் கல்லறை வளாகத்தில் ~30 தமிழ்-பிராமி கல்வெட்டுகள், 'சிகை கொற்றன்' வணிகர் 5 கல்லறைகளில் 8 முறை பெயரிடப்பட்டுள்ளார். தமிழ் வணிகர்கள் கடலோர துறைமுகங்களை மட்டுமல்ல, எகிப்தின் உள்நாட்டிற்கும் ஊடுருவினர் என்பதற்கான சான்று."
+      },
+      "keyFindings": [
+        {
+          "en": "~30 inscriptions across 6 tombs",
+          "ta": "6 கல்லறைகளில் ~30 கல்வெட்டுகள்"
+        },
+        {
+          "en": "~20 in Tamil-Brahmi script",
+          "ta": "~20 தமிழ்-பிராமி எழுத்தில்"
+        },
+        {
+          "en": "Merchant 'Cikai Korran' named 8 times",
+          "ta": "'சிகை கொற்றன்' வணிகர் 8 முறை பெயரிடப்பட்டார்"
+        },
+        {
+          "en": "'Korrapuman' on pottery at Berenike",
+          "ta": "பெரெனிகேயில் மட்பாண்டத்தில் 'கொற்றபுமான்'"
+        },
+        {
+          "en": "Sanskrit inscriptions mention Kshaharata envoys",
+          "ta": "சமஸ்கிருத கல்வெட்டுகள் க்ஷஹரத தூதர்களைக் குறிப்பிடுகின்றன"
+        }
+      ],
+      "literaryPairing": null,
+      "quote": null,
+      "sources": [
+        {
+          "type": "news",
+          "url": "https://www.tamilguardian.com/content/2000-year-old-tamil-brahmi-inscriptions-discovered-egypts-valley-kings",
+          "title": {
+            "en": "Tamil Guardian: Valley of Kings inscriptions",
+            "ta": "Tamil Guardian: Valley of Kings inscriptions"
+          }
+        },
+        {
+          "type": "news",
+          "url": "https://www.deccanherald.com/india/thirty-tamili-and-prakrit-scripts-reveal-2000-year-old-india-egypt-trade-3895134",
+          "title": {
+            "en": "Deccan Herald: India-Egypt trade",
+            "ta": "Deccan Herald: India-Egypt trade"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "tamil_brahmi",
+        "egypt",
+        "foreign_inscription",
+        "merchants",
+        "indo_roman_trade"
+      ]
+    },
+    {
+      "id": 18,
+      "era": "POST_SANGAM",
+      "type": "LITERARY",
+      "title": {
+        "en": "Silappatikaram Epic Composed",
+        "ta": "சிலப்பதிகாரம் காவியம் இயற்றப்பட்டது"
+      },
+      "date": {
+        "year": 450,
+        "display": {
+          "en": "5th c. CE",
+          "ta": "5th c. CE"
+        },
+        "rangeEnd": 550,
+        "confidence": "HIGH",
+        "contestedClaim": null
+      },
+      "location": {
+        "site": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "district": null,
+        "state": {
+          "en": "Tamil Nadu",
+          "ta": "தமிழ்நாடு"
+        },
+        "coordinates": null
+      },
+      "summary": {
+        "en": "Tamil epic by Jain monk Ilango Adigal describing merchant Kovalan and wife Kannagi across three Tamil kingdoms. Exceptional archaeology-literature correlation — Puhar descriptions confirmed by underwater archaeology.",
+        "ta": "சமண துறவி இளங்கோ அடிகளால் தமிழ் காவியம், வணிகர் கோவலன் மற்றும் மனைவி கண்ணகியை மூன்று தமிழ் நாடுகளில் விவரிக்கிறது. விதிவிலக்கான தொல்லியல்-இலக்கிய தொடர்பு - புகார் விவரணைகள் நீர்மூழ்கி தொல்லியல் மூலம் உறுதிப்படுத்தப்பட்டன."
+      },
+      "keyFindings": [
+        {
+          "en": "Story spans Chera, Chola, and Pandya kingdoms",
+          "ta": "சேர, சோழ, பாண்டிய நாடுகளில் நிகழும் கதை"
+        },
+        {
+          "en": "Harbor and trade descriptions validated",
+          "ta": "துறைமுகம் மற்றும் வணிக விவரணைகள் தொல்லியலால் உறுதி"
+        },
+        {
+          "en": "City layout descriptions matched by archaeology",
+          "ta": "நகர அமைப்பு விவரணைகள் தொல்லியலால் நிரூபணம்"
+        },
+        {
+          "en": "Bridge between Sangam and classical Tamil",
+          "ta": "சங்க கால மற்றும் செம்மொழி தமிழுக்கு இடையேயான பாலம்"
+        }
+      ],
+      "literaryPairing": {
+        "work": {
+          "en": "Silappatikaram",
+          "ta": "சிலப்பதிகாரம்"
+        },
+        "relevance": {
+          "en": "Epic validated by Poompuhar underwater archaeology",
+          "ta": "Epic validated by Poompuhar underwater archaeology"
+        }
+      },
+      "quote": {
+        "text": {
+          "en": "The city where the wealth of all lands and seas converged...",
+          "ta": "நானிலமும் கடலும் ஒருங்கு தந்த செல்வம் நிறைந்த நகர்..."
+        },
+        "source": {
+          "en": "Silappatikaram, Pukar Kandam",
+          "ta": "சிலப்பதிகாரம், புகார் காண்டம்"
+        },
+        "author": {
+          "en": "Ilango Adigal",
+          "ta": "இளங்கோ அடிகள்"
+        },
+        "translator": "Scholarly adaptation",
+        "context": {
+          "en": "Describing Puhar as a center of maritime trade",
+          "ta": "புகாரை கடல் வர்த்தக மையமாக விவரிக்கிறது"
+        }
+      },
+      "sources": [
+        {
+          "type": "academic",
+          "url": "https://www.britannica.com/topic/Silappathikaram",
+          "title": {
+            "en": "Britannica: Silappatikaram",
+            "ta": "Britannica: Silappatikaram"
+          }
+        },
+        {
+          "type": "reference",
+          "url": "https://en.wikipedia.org/wiki/Cilappatikaram",
+          "title": {
+            "en": "Wikipedia: Cilappatikaram",
+            "ta": "Wikipedia: Cilappatikaram"
+          }
+        }
+      ],
+      "image": null,
+      "tags": [
+        "epic",
+        "classical_literature",
+        "jain",
+        "three_kingdoms",
+        "kannagi"
+      ]
+    },
+    {
+      "id": 19,
       "era": "POST_SANGAM",
       "type": "LITERARY",
       "title": {
@@ -1808,115 +2097,7 @@
       ]
     },
     {
-      "id": 17,
-      "era": "POST_SANGAM",
-      "type": "LITERARY",
-      "title": {
-        "en": "Silappatikaram Epic Composed",
-        "ta": "சிலப்பதிகாரம் காவியம் இயற்றப்பட்டது"
-      },
-      "date": {
-        "year": 450,
-        "display": {
-          "en": "5th c. CE",
-          "ta": "5th c. CE"
-        },
-        "rangeEnd": 550,
-        "confidence": "HIGH",
-        "contestedClaim": null
-      },
-      "location": {
-        "site": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "district": null,
-        "state": {
-          "en": "Tamil Nadu",
-          "ta": "தமிழ்நாடு"
-        },
-        "coordinates": null
-      },
-      "summary": {
-        "en": "Tamil epic by Jain monk Ilango Adigal describing merchant Kovalan and wife Kannagi across three Tamil kingdoms. Exceptional archaeology-literature correlation — Puhar descriptions confirmed by underwater archaeology.",
-        "ta": "சமண துறவி இளங்கோ அடிகளால் தமிழ் காவியம், வணிகர் கோவலன் மற்றும் மனைவி கண்ணகியை மூன்று தமிழ் நாடுகளில் விவரிக்கிறது. விதிவிலக்கான தொல்லியல்-இலக்கிய தொடர்பு - புகார் விவரணைகள் நீர்மூழ்கி தொல்லியல் மூலம் உறுதிப்படுத்தப்பட்டன."
-      },
-      "keyFindings": [
-        {
-          "en": "Story spans Chera, Chola, and Pandya kingdoms",
-          "ta": "சேர, சோழ, பாண்டிய நாடுகளில் நிகழும் கதை"
-        },
-        {
-          "en": "Harbor and trade descriptions validated",
-          "ta": "துறைமுகம் மற்றும் வணிக விவரணைகள் தொல்லியலால் உறுதி"
-        },
-        {
-          "en": "City layout descriptions matched by archaeology",
-          "ta": "நகர அமைப்பு விவரணைகள் தொல்லியலால் நிரூபணம்"
-        },
-        {
-          "en": "Bridge between Sangam and classical Tamil",
-          "ta": "சங்க கால மற்றும் செம்மொழி தமிழுக்கு இடையேயான பாலம்"
-        }
-      ],
-      "literaryPairing": {
-        "work": {
-          "en": "Silappatikaram",
-          "ta": "சிலப்பதிகாரம்"
-        },
-        "relevance": {
-          "en": "Epic validated by Poompuhar underwater archaeology",
-          "ta": "Epic validated by Poompuhar underwater archaeology"
-        }
-      },
-      "quote": {
-        "text": {
-          "en": "The city where the wealth of all lands and seas converged...",
-          "ta": "நானிலமும் கடலும் ஒருங்கு தந்த செல்வம் நிறைந்த நகர்..."
-        },
-        "source": {
-          "en": "Silappatikaram, Pukar Kandam",
-          "ta": "சிலப்பதிகாரம், புகார் காண்டம்"
-        },
-        "author": {
-          "en": "Ilango Adigal",
-          "ta": "இளங்கோ அடிகள்"
-        },
-        "translator": "Scholarly adaptation",
-        "context": {
-          "en": "Describing Puhar as a center of maritime trade",
-          "ta": "புகாரை கடல் வர்த்தக மையமாக விவரிக்கிறது"
-        }
-      },
-      "sources": [
-        {
-          "type": "academic",
-          "url": "https://www.britannica.com/topic/Silappathikaram",
-          "title": {
-            "en": "Britannica: Silappatikaram",
-            "ta": "Britannica: Silappatikaram"
-          }
-        },
-        {
-          "type": "reference",
-          "url": "https://en.wikipedia.org/wiki/Cilappatikaram",
-          "title": {
-            "en": "Wikipedia: Cilappatikaram",
-            "ta": "Wikipedia: Cilappatikaram"
-          }
-        }
-      ],
-      "image": null,
-      "tags": [
-        "epic",
-        "classical_literature",
-        "jain",
-        "three_kingdoms",
-        "kannagi"
-      ]
-    },
-    {
-      "id": 18,
+      "id": 20,
       "era": "POST_SANGAM",
       "type": "LITERARY",
       "title": {
@@ -2016,7 +2197,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 21,
       "era": "PALLAVA",
       "type": "POLITICAL",
       "title": {
@@ -2091,7 +2272,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 22,
       "era": "PALLAVA",
       "type": "ARCHITECTURAL",
       "title": {
@@ -2167,7 +2348,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 23,
       "era": "PALLAVA",
       "type": "CULTURAL",
       "title": {
@@ -2265,7 +2446,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 24,
       "era": "PALLAVA",
       "type": "FOREIGN_INSCRIPTION",
       "title": {
@@ -2338,7 +2519,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 25,
       "era": "CHOLA",
       "type": "POLITICAL",
       "title": {
@@ -2414,7 +2595,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 26,
       "era": "CHOLA",
       "type": "ARCHITECTURAL",
       "title": {
@@ -2503,7 +2684,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 27,
       "era": "CHOLA",
       "type": "MILITARY",
       "title": {
@@ -2589,7 +2770,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 28,
       "era": "CHOLA",
       "type": "FOREIGN_INSCRIPTION",
       "title": {
@@ -2658,7 +2839,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 29,
       "era": "PANDYA_REVIVAL",
       "type": "POLITICAL",
       "title": {
@@ -2757,7 +2938,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 30,
       "era": "NAYAK",
       "type": "POLITICAL",
       "title": {
@@ -2825,7 +3006,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 31,
       "era": "COLONIAL",
       "type": "POLITICAL",
       "title": {
@@ -2897,7 +3078,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 32,
       "era": "MODERN",
       "type": "POLITICAL",
       "title": {
@@ -2976,7 +3157,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 33,
       "era": "MODERN",
       "type": "CULTURAL",
       "title": {
