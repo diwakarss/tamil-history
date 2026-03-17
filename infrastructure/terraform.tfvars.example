@@ -1,0 +1,15 @@
+aws_region           = "us-east-1"
+project_name         = "tamil-history"
+environment          = "prod"
+bucket_name          = "tamil-history-prod-site"
+domain_name          = ""
+hosted_zone_id       = ""
+acm_certificate_arn = ""
+github_org           = "your-org"
+github_repo          = "tamil-history"
+github_branch        = "main"
+
+# OIDC Provider Configuration
+# Set create_oidc_provider to false if the provider already exists in your AWS account
+create_oidc_provider = true
+# oidc_provider_arn    = "arn:aws:iam::123456789012:oidc-provider/token.actions.githubusercontent.com"
